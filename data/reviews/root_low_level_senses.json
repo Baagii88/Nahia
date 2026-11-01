@@ -1,0 +1,223 @@
+[
+  {
+    "id": "hsk1_287",
+    "simplified": "点",
+    "pinyin": "diǎn",
+    "mongolian": "цэг; бага хэмжээ заах тоолох үг; бага зэрэг; цаг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk1_29",
+    "simplified": "还",
+    "pinyin": "hái",
+    "mongolian": "одоо ч, хэвээр; бас, мөн; нэлээд",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk1_24",
+    "simplified": "好",
+    "pinyin": "hǎo",
+    "mongolian": "сайн, сайхан; сайн хийх; амархан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31",
+    "english": "good; fine; well; easy to"
+  },
+  {
+    "id": "hsk1_52",
+    "simplified": "里",
+    "pinyin": "lǐ",
+    "mongolian": "дотор, дотор тал; ли (ойролцоогоор 500 метрийн уламжлалт уртын нэгж)",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31",
+    "english": "inside; interior; li (traditional Chinese distance unit, about 500 m)"
+  },
+  {
+    "id": "hsk1_89",
+    "simplified": "找",
+    "pinyin": "zhǎo",
+    "mongolian": "хайх, эрж олох; хариулт мөнгө өгөх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk1_70",
+    "simplified": "只",
+    "pinyin": "zhī",
+    "mongolian": "амьтан, хос зүйлийн нэгийг тоолох үг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk2_50",
+    "simplified": "别",
+    "pinyin": "bié",
+    "mongolian": "битгий, бүү",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31",
+    "english": "do not; don’t (prohibitive adverb)"
+  },
+  {
+    "id": "hsk2_34",
+    "simplified": "长",
+    "pinyin": "cháng",
+    "mongolian": "урт",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk2_13",
+    "simplified": "得",
+    "pinyin": "de",
+    "mongolian": "үйлийн чанар, зэрэг, байдлыг холбож заах туслах үг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk2_198",
+    "simplified": "点",
+    "pinyin": "diǎn",
+    "mongolian": "асаах, гал ноцоох; цэг; захиалах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk2_16",
+    "simplified": "过",
+    "pinyin": "guò",
+    "mongolian": "өнгөрөх, гатлах; хэтэрсэн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk2_64",
+    "simplified": "花",
+    "pinyin": "huā",
+    "mongolian": "зарцуулах (мөнгө, цаг)",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "pdf_hsk2_58",
+    "simplified": "花",
+    "pinyin": "huā",
+    "mongolian": "цэцэг; алаг, өнгөлөг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk2_53",
+    "simplified": "面",
+    "pinyin": "miàn",
+    "mongolian": "тал; нүүр; байрлал, чиглэл заах үгийн ард залгадаг дагавар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31",
+    "english": "side; face; suffix indicating location or direction, as in 上面 or 里面"
+  },
+  {
+    "id": "hsk2_49",
+    "simplified": "头",
+    "pinyin": "tóu",
+    "mongolian": "толгой; амьтан тоолох үг; эхний",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk3_9",
+    "simplified": "得",
+    "pinyin": "děi",
+    "mongolian": "ёстой, хэрэгтэй; ...-хаас аргагүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk3_5",
+    "simplified": "地",
+    "pinyin": "dì",
+    "mongolian": "газар, хөрс, нутаг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk3_4",
+    "simplified": "还",
+    "pinyin": "huán",
+    "mongolian": "буцаах, буцааж өгөх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk3_3",
+    "simplified": "会",
+    "pinyin": "huì",
+    "mongolian": "уулзалт, хурал",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk3_35",
+    "simplified": "长",
+    "pinyin": "zhǎng",
+    "mongolian": "өсөх, томрох; удирдагч, даргыг заах дагавар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk3_21",
+    "simplified": "只",
+    "pinyin": "zhǐ",
+    "mongolian": "зөвхөн, ердөө",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk4_8",
+    "simplified": "等",
+    "pinyin": "děng",
+    "mongolian": "гэх мэт, зэрэг; анги, зэрэглэл; ижил",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk4_10",
+    "simplified": "两",
+    "pinyin": "liǎng",
+    "mongolian": "лян (Хятадын жингийн уламжлалт нэгж, эх газрын Хятадад 50 грамм); хоёр",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31",
+    "english": "liang (traditional Chinese weight unit, 50 grams in mainland China); two"
+  },
+  {
+    "id": "hsk4_3",
+    "simplified": "着",
+    "pinyin": "zháo",
+    "mongolian": "хүрэх; авалцах, асах (гал); биелэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  }
+]

@@ -1,0 +1,55 @@
+.learning-nav { display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.25rem; }
+.learning-nav .chip { white-space:normal; min-height:44px; }
+#learning-content { max-width:1000px; margin:auto; overflow-wrap:anywhere; }
+#learning-content h2 { margin:.6rem 0; font-size:1.5rem; }
+#learning-content h3 { margin:.75rem 0 .5rem; }
+#learning-content p { line-height:1.65; margin:.65rem 0; }
+.learn-hero,.learn-panel { padding:1.4rem; margin:1rem 0; border:1px solid var(--border-color); border-radius:20px; background:var(--bg-card); }
+.learn-hero { background:linear-gradient(120deg,var(--bg-card),var(--bg-input)); }
+.learning-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:1rem; margin:1rem 0; }
+.learning-tile { border:1px solid var(--border-color); border-radius:16px; padding:1rem; background:var(--bg-card); color:var(--text-main); text-align:left; font:inherit; min-width:0; }
+button.learning-tile { cursor:pointer; }
+button.learning-tile:hover { border-color:var(--primary); }
+.step-number { display:inline-grid; place-items:center; width:32px; height:32px; border-radius:50%; background:#dc2626; color:#fff; font-weight:700; }
+.learn-button { padding:.65rem .85rem; min-height:44px; border-radius:10px; border:1px solid var(--border-color); margin:.25rem .3rem .25rem 0; color:var(--text-main); background:var(--bg-input); cursor:pointer; font:inherit; white-space:normal; }
+.learn-button:focus-visible,.learning-tile:focus-visible { outline:3px solid #2563eb; outline-offset:3px; }
+.learn-label { display:flex; flex-wrap:wrap; gap:.5rem; align-items:center; margin:1rem 0; }
+.learn-label input,.learn-label select,.learn-label textarea,.picture-toolbar input { min-width:0; max-width:100%; padding:.7rem; border:1px solid var(--border-color); border-radius:10px; background:var(--bg-input); color:var(--text-main); font:inherit; min-height:44px; }
+.learn-label textarea { width:100%; }
+.lesson-reading { line-height:1.8; }
+.lesson-reading li { margin:.4rem 0 .4rem 1.2rem; }
+.lesson-reading blockquote { padding:.5rem; border-left:3px solid #dc2626; }
+.chinese-example { font-size:1.6rem; }
+.lesson-question { min-width:0; border:1px solid var(--border-color); border-radius:12px; padding:1rem; margin:1.3rem 0; }
+.lesson-question legend { padding:0 .35rem; font-weight:700; }
+.lesson-options { display:flex; flex-wrap:wrap; }
+.learn-button.answer-right { color:#166534; background:#dcfce7; border-color:#15803d; }
+.learn-button.answer-wrong { color:#991b1b; background:#fee2e2; border-color:#b91c1c; }
+.stroke-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:.7rem; }
+.stroke-grid svg { display:block; width:85px; height:85px; margin:auto; }
+.basic-stroke { fill:none; stroke:currentColor; stroke-width:8; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:180; animation:stroke-draw 2s ease-out both; }
+@keyframes stroke-draw { from {stroke-dashoffset:180} to {stroke-dashoffset:0} }
+@media(prefers-reduced-motion:reduce) { .basic-stroke { animation:none; } }
+.radical-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(205px,1fr)); gap:.8rem; }
+.radical-glyph { display:block; font-size:3rem; }
+.radical-examples .learn-button { font-size:1.2rem; }
+.learn-source { font-size:.8rem; color:var(--text-muted); }
+.learn-source a { color:inherit; text-decoration:underline; }
+.picture-card { max-width:430px; margin:1rem auto; padding:.7rem; border:1px solid var(--border-color); border-radius:18px; text-align:center; background:var(--bg-card); }
+.picture-card img { width:100%; max-height:65vh; object-fit:contain; display:block; background:white; }
+.picture-toolbar { display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:.4rem; }
+.picture-toolbar input { width:75px; }
+.worksheet-paper { background:white; color:#111; padding:20px; max-width:794px; margin:1rem auto; border:1px solid #bbb; }
+.worksheet-row { break-inside:avoid; margin:12px 0 18px; }
+.worksheet-caption { font-size:12px; margin-bottom:6px; }
+.worksheet-caption strong { font-size:18px; }
+.writing-cells { display:grid; grid-template-columns:repeat(8,minmax(0,1fr)); border-left:1px solid #888; }
+.writing-cell { aspect-ratio:1; min-width:0; position:relative; border:1px solid #888; border-left:0; background:linear-gradient(45deg,transparent 49.5%,#ddd 50%,transparent 50.5%),linear-gradient(-45deg,transparent 49.5%,#ddd 50%,transparent 50.5%); }
+.writing-cell:before { content:''; position:absolute; top:50%; left:0; right:0; border-top:1px dashed #ddd; }
+.writing-cell:after { content:''; position:absolute; left:50%; top:0; bottom:0; border-left:1px dashed #ddd; }
+.writing-cell svg { width:100%; height:100%; fill:currentColor; position:relative; z-index:1; }
+.writing-cell span { display:grid; height:100%; place-items:center; font-size:clamp(14px,5vw,65px); line-height:1; }
+.writing-cell.trace { color:#c5c5c5; }
+@media(max-width:600px) { .learning-grid { grid-template-columns:1fr; } .learn-panel,.learn-hero { padding:1rem; } .learning-nav { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); } .learning-nav .chip { margin:0; padding:.6rem .3rem; } .radical-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } .radical-grid .learning-tile { padding:.7rem; } .worksheet-paper { padding:8px; } .bottom-tab-btn { min-width:0; } .bottom-tab-btn .tab-label { font-size:.65rem; } }
+@page { size:A4; margin:14mm; }
+@media print { body.printing-worksheet { background:white!important; color:black!important; padding:0!important; } body.printing-worksheet .app-header,body.printing-worksheet .bottom-nav-bar,body.printing-worksheet #storage-status,body.printing-worksheet #app-status,body.printing-worksheet .learning-nav,body.printing-worksheet #learning-content > :not(#worksheet-preview),body.printing-worksheet main > :not(#tab-learn) { display:none!important; } body.printing-worksheet .app-main { padding:0; margin:0; max-width:none; } body.printing-worksheet #tab-learn { display:block!important; } body.printing-worksheet .worksheet-paper { border:0; margin:0; padding:0; max-width:none; } body.printing-worksheet .writing-cell { print-color-adjust:exact; -webkit-print-color-adjust:exact; } body.printing-worksheet .writing-cell span { font-size:48px; } }

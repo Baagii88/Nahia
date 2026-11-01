@@ -1,0 +1,29 @@
+.word-tree-picker { display:flex; flex-wrap:wrap; gap:.5rem; margin:1rem 0; }
+.word-tree-picker .chip { white-space:normal; min-height:44px; }
+.word-tree-root { max-width:420px; margin:auto; }
+.word-tree-card { min-width:0; border:2px solid; border-radius:18px; padding:1rem; background:var(--bg-card); }
+.word-tree-card h3 { font-size:2.4rem; line-height:1.4; }
+.word-tree-card p { margin:.4rem 0!important; }
+.word-tree-card.stage-1 { border-color:#0284c7; }
+.word-tree-card.stage-2 { border-color:#15803d; }
+.word-tree-card.stage-3 { border-color:#d97706; max-width:420px; margin:auto; }
+.word-tree-card.stage-4 { border-color:#8b5cf6; }
+.word-tree-pinyin { color:var(--text-muted); }
+.word-tree-shared { color:#c2410c; }
+[data-theme="dark"] .word-tree-shared { color:#fdba74; }
+.word-tree-actions { display:flex; flex-wrap:wrap; margin-top:.75rem; }
+.word-tree-actions .learn-button { font-size:.85rem; }
+.word-tree-step { text-align:center; font-size:1rem; margin:1rem 0!important; }
+.word-tree-trunk { height:25px; width:2px; background:var(--text-muted); margin:auto; }
+.word-tree-branches { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.7rem; position:relative; padding-top:18px; }
+.word-tree-branches:before { content:''; position:absolute; top:0; left:16.67%; right:16.67%; border-top:2px solid #15803d; }
+.word-tree-branch { min-width:0; padding:1rem .5rem; border:2px solid #15803d; border-radius:18px; color:var(--text-main); background:var(--bg-card); font:inherit; cursor:pointer; display:flex; align-items:center; flex-direction:column; gap:.5rem; overflow-wrap:anywhere; position:relative; }
+.word-tree-branch:before { content:''; position:absolute; top:-20px; left:50%; height:18px; border-left:2px solid #15803d; }
+.word-tree-branch > span:first-child { font-size:2rem; }
+.word-tree-branch.selected { box-shadow:0 0 0 3px #86efac; }
+.word-tree-branch:focus-visible { outline:3px solid #2563eb; outline-offset:3px; }
+.word-tree-expanded { border:1px solid var(--border-color); border-radius:20px; padding:1rem; }
+.word-tree-expanded > .stage-2 { max-width:420px; margin:auto; }
+.word-tree-leaves { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.8rem; }
+.word-tree-note,.word-tree-hint { padding:1rem; background:var(--bg-input); border-radius:12px; }
+@media(max-width:650px) { .word-tree-leaves { grid-template-columns:1fr; } .word-tree-branch { font-size:.8rem; padding:.8rem .25rem; } .word-tree-branch > span:first-child { font-size:1.7rem; } .word-tree-expanded { padding:.7rem; } .learning-nav .chip:last-child:nth-child(odd) { grid-column:1/-1; } }

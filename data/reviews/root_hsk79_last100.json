@@ -1,0 +1,904 @@
+[
+  {
+    "id": "hsk7_9_4084",
+    "simplified": "抡",
+    "pinyin": "lūn",
+    "mongolian": "савчих, эргүүлэн далайх; мөнгө цацах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4079",
+    "simplified": "轮换",
+    "pinyin": "lún huàn",
+    "mongolian": "ээлжлэх, сэлгэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2619",
+    "simplified": "轮廓",
+    "pinyin": "lún kuò",
+    "mongolian": "гадна хүрээ, тойм дүрс",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1520",
+    "simplified": "伦理",
+    "pinyin": "lún lǐ",
+    "mongolian": "ёс зүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_780",
+    "simplified": "轮胎",
+    "pinyin": "lún tāi",
+    "mongolian": "дугуйн хаймар, дугуй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1431",
+    "simplified": "论述",
+    "pinyin": "lùn shù",
+    "mongolian": "өгүүлэн тайлбарлах; тайлбар, судалсан өгүүлэмж",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_969",
+    "simplified": "论证",
+    "pinyin": "lùn zhèng",
+    "mongolian": "үндэслэн нотлох; нотолгоо",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5483",
+    "simplified": "啰唆",
+    "pinyin": "luō suo",
+    "mongolian": "нурших, олон үглэх; төвөгтэй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1032",
+    "simplified": "萝卜",
+    "pinyin": "luó bo",
+    "mongolian": "цагаан манжин, редиск",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4395",
+    "simplified": "螺丝",
+    "pinyin": "luó sī",
+    "mongolian": "эрэг, шураг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_726",
+    "simplified": "裸",
+    "pinyin": "luǒ",
+    "mongolian": "нүцгэн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3377",
+    "simplified": "裸露",
+    "pinyin": "luǒ lù",
+    "mongolian": "ил гарсан, нүцгэн; ил гарах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3681",
+    "simplified": "裸体",
+    "pinyin": "luǒ tǐ",
+    "mongolian": "нүцгэн бие; нүцгэн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3945",
+    "simplified": "落差",
+    "pinyin": "luò chā",
+    "mongolian": "өндрийн зөрүү; ялгаа, зөрүү",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3468",
+    "simplified": "落成",
+    "pinyin": "luò chéng",
+    "mongolian": "барилга баригдаж дуусах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1883",
+    "simplified": "落户",
+    "pinyin": "luò hù",
+    "mongolian": "суурьших, гэр орноо байгуулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_63",
+    "simplified": "落实",
+    "pinyin": "luò shí",
+    "mongolian": "хэрэгжүүлэх, ажил хэрэг болгох; бодитой болгох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3978",
+    "simplified": "络绎不绝",
+    "pinyin": "luò yì bù jué",
+    "mongolian": "тасралтгүй цуврах, урсгал мэт үргэлжлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_475",
+    "simplified": "麻",
+    "pinyin": "má",
+    "mongolian": "бадайрсан, мэдээ алдсан; барзгар, нүхтэй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "pdf_hsk7_9_2720",
+    "simplified": "麻",
+    "pinyin": "má",
+    "mongolian": "олс, маалинга зэрэг ширхэгт ургамал; тэдгээрийн ширхэг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1688",
+    "simplified": "麻痹",
+    "pinyin": "má bì",
+    "mongolian": "мэдээ алдах, саажих; сэрэмж алдах, хайнга болох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_930",
+    "simplified": "麻将",
+    "pinyin": "má jiàng",
+    "mongolian": "маажан (хятадын хөлөгт тоглоом)",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2024",
+    "simplified": "麻辣",
+    "pinyin": "má là",
+    "mongolian": "халуун ногоотой, ам бадайрам",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1861",
+    "simplified": "麻木",
+    "pinyin": "má mù",
+    "mongolian": "бадайрсан, мэдээгүй; мэдрэмжгүй, үл тоомсорлосон",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1232",
+    "simplified": "麻醉",
+    "pinyin": "má zuì",
+    "mongolian": "мэдээ алдуулах; мэдээ алдуулалт; оюун санааг мансууруулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_256",
+    "simplified": "码",
+    "pinyin": "mǎ",
+    "mongolian": "ярд (уртын нэгж); зүйлийг ялган тоолох нэгж",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "pdf_hsk7_9_2727",
+    "simplified": "码",
+    "pinyin": "mǎ",
+    "mongolian": "овоолох, өрж давхарлах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5451",
+    "simplified": "马后炮",
+    "pinyin": "mǎ hòu pào",
+    "mongolian": "өнгөрсөн хойно нь хэлсэн хэрэггүй зөвлөгөө, оройтсон үйлдэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3209",
+    "simplified": "马力",
+    "pinyin": "mǎ lì",
+    "mongolian": "морины хүч",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2716",
+    "simplified": "马桶",
+    "pinyin": "mǎ tǒng",
+    "mongolian": "суултуур, жорлонгийн суултуур",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4099",
+    "simplified": "埋藏",
+    "pinyin": "mái cáng",
+    "mongolian": "булах, булж нуух; далд байх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3437",
+    "simplified": "埋伏",
+    "pinyin": "mái fú",
+    "mongolian": "отох, отолт хийх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4998",
+    "simplified": "埋没",
+    "pinyin": "mái mò",
+    "mongolian": "булах, далдлах; авьяасыг үнэлэхгүй орхих; мартагдах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5063",
+    "simplified": "埋头苦干",
+    "pinyin": "mái tóu kǔ gàn",
+    "mongolian": "ажилдаа хамаг анхаарлаа өгч шаргуу зүтгэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3963",
+    "simplified": "埋葬",
+    "pinyin": "mái zàng",
+    "mongolian": "оршуулах, булах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3921",
+    "simplified": "脉搏",
+    "pinyin": "mài bó",
+    "mongolian": "судасны лугшилт; үйл явцын хэмнэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4270",
+    "simplified": "脉络",
+    "pinyin": "mài luò",
+    "mongolian": "судасны сүлжээ; үйл явдлын уялдаа, ерөнхий бүтэц",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2153",
+    "simplified": "瞒",
+    "pinyin": "mán",
+    "mongolian": "нуух, мэдэгдэхгүй байх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2476",
+    "simplified": "埋怨",
+    "pinyin": "mán yuàn",
+    "mongolian": "гомдоллох, үглэх; буруутгах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2683",
+    "simplified": "满怀",
+    "pinyin": "mǎn huái",
+    "mongolian": "сэтгэл дүүрэн байх; өвөр дүүрэн; хээл ихтэй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_487",
+    "simplified": "漫",
+    "pinyin": "màn",
+    "mongolian": "чөлөөтэй, замбараагүй; бялхах, үерлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_562",
+    "simplified": "慢性",
+    "pinyin": "màn xìng",
+    "mongolian": "архаг; удаан үргэлжлэх, удаан үйлчлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1068",
+    "simplified": "蔓延",
+    "pinyin": "màn yán",
+    "mongolian": "тархах, дэлгэрэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3480",
+    "simplified": "漫游",
+    "pinyin": "màn yóu",
+    "mongolian": "аялан хэсэх; роуминг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4197",
+    "simplified": "忙活",
+    "pinyin": "máng huo",
+    "mongolian": "завгүй ажиллах; яаралтай ажил",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5195",
+    "simplified": "忙乱",
+    "pinyin": "máng luàn",
+    "mongolian": "сандарсан, эмх замбараагүй яарал",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2365",
+    "simplified": "茫茫",
+    "pinyin": "máng máng",
+    "mongolian": "зах хязгааргүй, балархай уудам",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_624",
+    "simplified": "盲目",
+    "pinyin": "máng mù",
+    "mongolian": "сохроор, бодож ойлголгүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2434",
+    "simplified": "茫然",
+    "pinyin": "máng rán",
+    "mongolian": "учраа олохгүй, мэл гайхсан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3909",
+    "simplified": "矛头",
+    "pinyin": "máo tóu",
+    "mongolian": "жадны үзүүр; дайралт, шүүмжлэлийн чиглэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2768",
+    "simplified": "冒充",
+    "pinyin": "mào chōng",
+    "mongolian": "өөр хүн, зүйл болж дүр эсгэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4870",
+    "simplified": "冒犯",
+    "pinyin": "mào fàn",
+    "mongolian": "гомдоох, хүндэтгэлгүй хандах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5325",
+    "simplified": "冒昧",
+    "pinyin": "mào mèi",
+    "mongolian": "хүндэтгэлгүйгээр зүрхлэх; зориглон хүсэлт тавих",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4797",
+    "simplified": "茂密",
+    "pinyin": "mào mì",
+    "mongolian": "өтгөн, шигүү (ургамал)",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4934",
+    "simplified": "茂盛",
+    "pinyin": "mào shèng",
+    "mongolian": "саглагар, өтгөн ургасан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_124",
+    "simplified": "枚",
+    "pinyin": "méi",
+    "mongolian": "жижиг зүйл, зоос, медаль зэрэг зүйлийг тоолох үг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01",
+    "english": "classifier for small objects, coins, medals, stamps, etc."
+  },
+  {
+    "id": "hsk7_9_2270",
+    "simplified": "媒介",
+    "pinyin": "méi jiè",
+    "mongolian": "зууч, дамжуулагч; мэдээллийн хэрэгсэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4274",
+    "simplified": "没劲",
+    "pinyin": "méi jìn",
+    "mongolian": "хүчгүй, сульдсан; сонирхолгүй, уйтгартай",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5354",
+    "simplified": "眉开眼笑",
+    "pinyin": "méi kāi yǎn xiào",
+    "mongolian": "магнай тэнийж, баяр хөөр дүүрэн инээх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1900",
+    "simplified": "煤气",
+    "pinyin": "méi qì",
+    "mongolian": "шатдаг хий, түлшний хий",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_291",
+    "simplified": "煤炭",
+    "pinyin": "méi tàn",
+    "mongolian": "нүүрс",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4222",
+    "simplified": "没完没了",
+    "pinyin": "méi wán méi liǎo",
+    "mongolian": "дуусахгүй, тасралтгүй үргэлжлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5211",
+    "simplified": "没辙",
+    "pinyin": "méi zhé",
+    "mongolian": "яахаа мэдэхгүй, аргагүйдэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5423",
+    "simplified": "没准儿",
+    "pinyin": "méi zhǔn r",
+    "mongolian": "магадгүй; тодорхойгүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2740",
+    "simplified": "美德",
+    "pinyin": "měi dé",
+    "mongolian": "сайн чанар, ёс суртахууны эрхэм чанар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01",
+    "english": "virtue; moral excellence; admirable quality"
+  },
+  {
+    "id": "hsk7_9_2503",
+    "simplified": "美化",
+    "pinyin": "měi huà",
+    "mongolian": "гоё болгох, чимэглэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3234",
+    "simplified": "美满",
+    "pinyin": "měi mǎn",
+    "mongolian": "аз жаргалтай, тэгш дүүрэн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1560",
+    "simplified": "美妙",
+    "pinyin": "měi miào",
+    "mongolian": "гайхалтай, сайхан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_383",
+    "simplified": "美容",
+    "pinyin": "měi róng",
+    "mongolian": "гоо сайхан арчлах, сайжруулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2180",
+    "simplified": "美学",
+    "pinyin": "měi xué",
+    "mongolian": "гоо зүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3197",
+    "simplified": "美誉",
+    "pinyin": "měi yù",
+    "mongolian": "сайн нэр хүнд",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5133",
+    "simplified": "美中不足",
+    "pinyin": "měi zhōng bù zú",
+    "mongolian": "сайн сайхны дунд байгаа өчүүхэн дутагдал",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5329",
+    "simplified": "美滋滋",
+    "pinyin": "měi zī zī",
+    "mongolian": "маш баяртай, сэтгэл хангалуун",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_578",
+    "simplified": "闷",
+    "pinyin": "mēn",
+    "mongolian": "бүгчим; битүү хаах, хучих; дотроо байх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4316",
+    "simplified": "闷热",
+    "pinyin": "mēn rè",
+    "mongolian": "бүгчим халуун",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_965",
+    "simplified": "门槛",
+    "pinyin": "mén kǎn",
+    "mongolian": "босго; элсэх, оролцох шаардлага",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4367",
+    "simplified": "门路",
+    "pinyin": "mén lu",
+    "mongolian": "арга зам; хэрэг болох танил холбоо",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "pdf_hsk7_9_2778",
+    "simplified": "闷",
+    "pinyin": "mèn",
+    "mongolian": "сэтгэл гундуу, уйдсан; битүү, агааргүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_219",
+    "simplified": "蒙",
+    "pinyin": "mēng",
+    "mongolian": "хуурах; таамгаар хэлэх; манарсан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "pdf_hsk7_9_2780",
+    "simplified": "蒙",
+    "pinyin": "méng",
+    "mongolian": "бүрхэх; харанхуй, бүдэг; амсах, хүртэх; мэдлэггүй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4385",
+    "simplified": "萌发",
+    "pinyin": "méng fā",
+    "mongolian": "соёолох, нахиа гарах; санаа төрөх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2734",
+    "simplified": "朦胧",
+    "pinyin": "méng lóng",
+    "mongolian": "бүүдгэр, бүдэг бадаг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3915",
+    "simplified": "萌芽",
+    "pinyin": "méng yá",
+    "mongolian": "соёолох, нахиа; эхлэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_3848",
+    "simplified": "盟友",
+    "pinyin": "méng yǒu",
+    "mongolian": "холбоотон",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_225",
+    "simplified": "猛",
+    "pinyin": "měng",
+    "mongolian": "догшин, ширүүн; огцом, гэнэт; зоригтой",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1443",
+    "simplified": "猛烈",
+    "pinyin": "měng liè",
+    "mongolian": "хүчтэй, ширүүн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2061",
+    "simplified": "猛然",
+    "pinyin": "měng rán",
+    "mongolian": "гэнэт, огцом",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1300",
+    "simplified": "梦幻",
+    "pinyin": "mèng huàn",
+    "mongolian": "зүүд, мөрөөдлийн ертөнц; хий үзэгдэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4330",
+    "simplified": "梦寐以求",
+    "pinyin": "mèng mèi yǐ qiú",
+    "mongolian": "зүүдэндээ ч хүсэн мөрөөдөх, туйлын их хүсэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2070",
+    "simplified": "眯",
+    "pinyin": "mī",
+    "mongolian": "нүдээ онийлгох; түр дугхийх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1701",
+    "simplified": "谜",
+    "pinyin": "mí",
+    "mongolian": "оньсого",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4545",
+    "simplified": "谜底",
+    "pinyin": "mí dǐ",
+    "mongolian": "оньсогын хариу",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2620",
+    "simplified": "迷惑",
+    "pinyin": "mí huò",
+    "mongolian": "төөрөгдүүлэх, будилуулах; эргэлзээ",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2727",
+    "simplified": "迷恋",
+    "pinyin": "mí liàn",
+    "mongolian": "сэтгэл алдах, хорхойсох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1736",
+    "simplified": "弥漫",
+    "pinyin": "mí màn",
+    "mongolian": "дүүрэн тархах (утаа, манан зэрэг)",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_1966",
+    "simplified": "迷失",
+    "pinyin": "mí shī",
+    "mongolian": "төөрөх, чигээ алдах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4936",
+    "simplified": "谜团",
+    "pinyin": "mí tuán",
+    "mongolian": "учир нь тайлагдаагүй зүйл, нууц оньсого",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_2415",
+    "simplified": "迷信",
+    "pinyin": "mí xìn",
+    "mongolian": "мухар сүсэг; мухраар шүтэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_5267",
+    "simplified": "谜语",
+    "pinyin": "mí yǔ",
+    "mongolian": "оньсого, таавар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  },
+  {
+    "id": "hsk7_9_4607",
+    "simplified": "密布",
+    "pinyin": "mì bù",
+    "mongolian": "өтгөн бүрхэх, шигүү тархах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-11-01"
+  }
+]

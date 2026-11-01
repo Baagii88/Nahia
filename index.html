@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Нахиа — Монгол тайлбартай хятад хэл сурах апп</title>
+  
+  <!-- Mobile & PWA App Configuration -->
+  <meta name="theme-color" content="#2d5d48">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Нахиа">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/svg+xml" href="assets/nahia-icon.svg">
+  <link rel="apple-touch-icon" href="assets/nahia-icon-192.png">
+  <link rel="stylesheet" href="css/style.css?v=20261101-nahia2">
+  <link rel="stylesheet" href="css/learning.css?v=20261101-nahia2">
+  <meta name="description" content="HSK 1-9 бүх түвшний 11,000+ үгийн сан, интерактив ханз бичих дадлага, Anki загварын флашкарт, монгол тайлбартай хятад хэлний цогц гар утасны апп">
+  <link rel="stylesheet" href="css/radical_lessons.css?v=20261101-nahia2">
+  <link rel="stylesheet" href="css/word_trees.css?v=20261101-nahia2">
+  <link rel="stylesheet" href="css/related_words.css?v=20261101-nahia2">
+  <link rel="stylesheet" href="css/nahia_theme.css?v=20261101-nahia2">
+</head>
+<body>
+
+  <!-- App Header (Sticky Top Bar) -->
+  <header class="app-header">
+    <div class="header-container">
+      <a class="brand" role="button" tabindex="0" onclick="switchTab('learn')" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();switchTab('learn')}">
+        <div class="brand-icon" title="木 (mù) — мод">木</div>
+        <div class="brand-text">
+          <h1>нахиа</h1>
+          <span>ХЯТАД ХЭЛ · ӨДӨР БҮР</span>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Links (Hidden on Mobile) -->
+      <nav class="nav-links" aria-label="Үндсэн цэс"><button class="nav-btn active" data-tab="learn"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m3 10 9-7 9 7v10H3Z"/><path d="M9 20v-7h6v7"/></svg><span>Миний хичээл</span></button><button class="nav-btn" data-tab="vocab"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 4h7v16H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2ZM13 4h7a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-7Z"/></svg><span>Үгийн сан</span></button><button class="nav-btn" data-tab="writer"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m4 15 11-11 5 5L9 20H4Z"/><path d="m13 6 5 5M4 15l5 5"/></svg><span>Ханз бичих</span></button><button class="nav-btn" data-tab="srs"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="5" y="6" width="15" height="15" rx="2"/><path d="M16 3H4a2 2 0 0 0-2 2v12M9 11h7M9 15h5"/></svg><span>Карт давтах</span></button><button class="nav-btn" data-tab="quiz"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="m16 8 5-5M17 3h4v4"/></svg><span>Өөрийгөө сорих</span></button><button class="nav-btn" data-tab="grammar"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5h16M4 12h16M4 19h16M8 3v4M16 10v4M10 17v4"/></svg><span>Хэлний дүрэм</span></button></nav>
+
+      <div class="sidebar-caption"><span>学 · 习</span><p>Бага багаар.<br>Өдөр бүр.</p></div>
+      <!-- Header Actions -->
+      <div class="header-actions">
+        <button id="btn-theme-toggle" class="icon-btn" title="Өдөр/Шөнийн горим солих" aria-label="Өдөр, шөнийн горим солих"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M19 16A8 8 0 0 1 9 5a8 8 0 1 0 10 11Z"/></svg><span class="theme-label">Өдөр / Шөнө</span></button>
+      </div>
+    </div>
+  </header>
+
+  <div class="workspace-bar"><div><small>Таны суралцах орон зай</small><p id="workspace-current-view">Миний хичээл</p></div><span class="workspace-badge">HSK 1–9</span></div>
+
+  <!-- Main Application Body -->
+  <main class="app-main">
+    <p id="storage-status" role="status"></p>
+    <p id="app-status" class="toast-status" role="status"></p>
+
+    <!-- TAB 1: VOCABULARY LIST (HSK 1 - 9) -->
+    <section id="tab-learn" class="tab-content active" aria-label="Сурах зам ба HSK хичээлүүд"><nav id="learning-nav" class="learning-nav" aria-label="Сургалтын хэсгүүд"></nav><div id="learning-content"></div></section>
+    <section id="tab-vocab" class="tab-content">
+      
+      <!-- Statistics Banner -->
+      <div class="stats-banner">
+        <div class="stats-info">
+          <h2>HSK 3.0 (1–9 түвшин) үгийн сан</h2>
+          <p>Монгол орчуулга, аялгын өнгөт Pinyin, дуудлага, зураасны хөдөлгөөнт дүрслэл</p>
+        </div>
+        <div class="stats-badges">
+          <div class="badge-item">
+            <div id="stat-all-total" class="badge-num">11,000</div>
+            <div class="badge-label">Нийт үг</div>
+          </div>
+          <div class="badge-item">
+            <div id="stat-level-total" class="badge-num">300</div>
+            <div class="badge-label">Түвшин</div>
+          </div>
+          <div class="badge-item">
+            <div id="stat-srs-total" class="badge-num">15</div>
+            <div class="badge-label">Флашкарт</div>
+          </div>
+        </div>
+      </div>
+
+      <details class="vocab-source-note">
+        <summary>Үгийн сангийн эх: New HSK 1–9 · 11,000 үг</summary>
+        <p>Түвшин, үгийн жагсаалтыг таны өгсөн New HSK Vocabulary PDF-үүдтэй тулгасан. Хуучин HSK1–5 монгол PDF-ээс зарим тайлбарыг тулгаж хянасан; хуучин түвшин, үгийн тоог энэ санд оруулаагүй.</p>
+      </details>
+      <!-- Controls: Search & Level Filter (HSK 1 - 9) -->
+      <div class="control-bar">
+        <div class="search-row">
+          <div class="search-input-wrap">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="search-input" aria-label="Ханз, пиньинь, монгол эсвэл англи утгаар хайх" class="search-input" placeholder="Ханз, Pinyin, эсвэл Монгол утгаар хайх...">
+          </div>
+        </div>
+        
+        <!-- Horizontal Scrollable Level Chips -->
+        <div class="level-chips">
+          <button class="chip active" data-level="1" onclick="setLevel(1)">HSK 1 (300)</button>
+          <button class="chip" data-level="2" onclick="setLevel(2)">HSK 2 (200)</button>
+          <button class="chip" data-level="3" onclick="setLevel(3)">HSK 3 (500)</button>
+          <button class="chip" data-level="4" onclick="setLevel(4)">HSK 4 (1,000)</button>
+          <button class="chip" data-level="5" onclick="setLevel(5)">HSK 5 (1,600)</button>
+          <button class="chip" data-level="6" onclick="setLevel(6)">HSK 6 (1,800)</button>
+          <button class="chip" data-level="7_9" onclick="setLevel('7_9')">HSK 7–9 (5,600)</button>
+          <button class="chip" data-level="all" onclick="setLevel('all')">🌟 Бүгд (11,000)</button>
+        </div>
+      </div>
+
+      <!-- Word Cards Grid -->
+      <div id="word-grid" class="word-grid">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </section>
+
+    <!-- TAB 2: HANZI WRITING STUDIO -->
+    <section id="tab-writer" class="tab-content">
+      <div class="writer-word-toolbar">
+        <div class="writer-word-filters">
+          <label>Түвшин
+            <select id="writer-level" onchange="setWriterLevel(this.value)">
+              <option value="1">HSK 1</option><option value="2">HSK 2</option>
+              <option value="3">HSK 3</option><option value="4">HSK 4</option>
+              <option value="5">HSK 5</option><option value="6">HSK 6</option>
+              <option value="7_9">HSK 7–9</option><option value="all">Бүх түвшин</option>
+            </select>
+          </label>
+          <input id="writer-search" class="search-input" aria-label="Бичих үг хайх" placeholder="Ханз, пиньинь, утгаар хайх…" autocomplete="off">
+          <button class="secondary-btn" aria-label="Бичих үгийн жагсаалтыг нээх" onclick="renderWriterWordResults()">Үгс</button>
+        </div>
+        <div id="writer-word-results" class="writer-word-results" aria-label="Бичих үгийн сонголт" hidden></div>
+        <div class="writer-word-navigation">
+          <button id="writer-prev-word" class="secondary-btn" onclick="moveWriterWord(-1)">← Өмнөх үг</button>
+          <span id="writer-word-progress" aria-live="polite"></span>
+          <button id="writer-next-word" class="primary-btn" onclick="moveWriterWord(1)">Дараагийн үг →</button>
+        </div>
+        <p id="writer-selected-word" class="writer-selected-word" aria-live="polite"></p>
+      </div>
+      <div class="writer-container">
+        
+        <!-- Left: Interactive Writing Canvas -->
+        <div class="canvas-panel">
+          <div class="char-header">
+            <div id="writer-pinyin" class="char-title-pinyin">ài</div>
+            <div id="writer-mongol" class="char-title-mongol">хайрлах, дурлах</div>
+          </div>
+
+          <p id="writer-word-context" class="word-context"></p>
+          <div id="writer-char-picker" class="writer-char-picker" aria-label="Бичих ханз сонгох"></div>
+          <div class="writer-modes" role="group" aria-label="Ханз бичих горим">
+            <button class="chip active" data-writer-mode="guided" aria-pressed="true" onclick="setWriterMode('guided')">▶ Дагаж бичих</button>
+            <button class="chip" data-writer-mode="trace" aria-pressed="false" onclick="setWriterMode('trace')">✍ Бүдэг загвартай</button>
+            <button class="chip" data-writer-mode="memory" aria-pressed="false" onclick="setWriterMode('memory')">◻ Загваргүй</button>
+            <button class="chip" data-writer-mode="free" aria-pressed="false" onclick="setWriterMode('free')">〰 Чөлөөт бичилт</button>
+          </div>
+          <!-- Traditional Red Rice Grid (米字格) -->
+          <div class="stroke-grid-box">
+            <svg class="grid-svg" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+              <line x1="0" y1="0" x2="100%" y2="100%" stroke="#fca5a5" stroke-width="1.5" stroke-dasharray="5 5" />
+              <line x1="100%" y1="0" x2="0" y2="100%" stroke="#fca5a5" stroke-width="1.5" stroke-dasharray="5 5" />
+              <line x1="50%" y1="0" x2="50%" y2="100%" stroke="#fca5a5" stroke-width="1.5" stroke-dasharray="5 5" />
+              <line x1="0" y1="50%" x2="100%" y2="50%" stroke="#fca5a5" stroke-width="1.5" stroke-dasharray="5 5" />
+            </svg>
+            <div id="hanzi-target"></div>
+            <canvas id="free-writing-canvas" hidden aria-label="Чөлөөт ханз бичих талбар"></canvas>
+          </div>
+
+          <div id="writer-status" style="min-height: 24px; font-size: 0.85rem; font-weight: 600; color: var(--text-muted); margin: 0.5rem 0;">
+            Зураасны анимейшн үзэх эсвэл гараар зурна уу
+          </div>
+
+          <!-- Writer Studio Controls (Mobile Friendly) -->
+          <div class="writer-controls">
+            <button id="btn-writing-animate" class="primary-btn" onclick="animateCharacter()">
+              ▶ Анимейшн
+            </button>
+            <button id="btn-writing-start" class="primary-btn" style="background:#059669;" onclick="startQuiz()">
+              ✍️ Эхлэх
+            </button>
+            <button class="secondary-btn" onclick="speakText(AppState.currentChar)">
+              🔊 Дуудлага
+            </button>
+            <button class="secondary-btn" onclick="resetWriter()">
+              🔄 Цэвэрлэх
+            </button>
+          </div>
+          <div id="writer-related-words"></div>
+        </div>
+
+        <!-- Right: Character Selector & Tools -->
+        <div class="writer-sidebar">
+          <div class="sidebar-section">
+            <h3>Дурын ханз оруулах (HSK 1–9)</h3>
+            <div style="display: flex; gap: 0.4rem; margin-top: 0.4rem;">
+              <input type="text" id="custom-char-input" aria-label="Дадлага хийх ханз эсвэл үг" class="search-input" style="padding-left: 0.75rem;" placeholder="Ханз бичнэ үү (жишээ: 龙, 德)..." maxlength="5">
+              <button id="btn-set-char" class="primary-btn" style="padding: 0.5rem 0.85rem; flex-shrink: 0;">Оруулах</button>
+            </div>
+          </div>
+
+          <div class="sidebar-section">
+            <h3>Түгээмэл ханзууд (HSK 1-9)</h3>
+            <div class="quick-chars">
+              <button class="quick-char-btn" onclick="setWriterCharacter('爱')">爱</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('学')">学</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('中')">中</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('国')">国</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('大')">大</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('好')">好</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('水')">水</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('人')">人</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('经')">经</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('济')">济</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('科')">科</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('技')">技</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('文')">文</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('化')">化</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('道')">道</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('德')">德</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('福')">福</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('寿')">寿</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('龙')">龙</button>
+              <button class="quick-char-btn" onclick="setWriterCharacter('慧')">慧</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- TAB 3: SPACED REPETITION FLASHCARDS (ANKI) -->
+    <section id="tab-srs" class="tab-content">
+      <div class="srs-container">
+        
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+          <h2 style="font-size: 1.15rem; font-weight: 800;">Флашкарт цээжлэлт (Anki)</h2>
+          <span id="srs-progress-text" style="font-size: 0.85rem; font-weight: 600; color: var(--primary);">
+            Карт: 1 / 15
+          </span>
+        </div>
+
+        <div class="backup-controls">
+          <button class="secondary-btn" onclick="exportProgress()">↓ Ахиц нөөцлөх</button>
+          <label class="secondary-btn" for="progress-import">↑ Нөөцөөс нэгтгэх</label>
+          <input id="progress-import" type="file" accept="application/json,.json" hidden>
+        </div>
+        <!-- Flashcard Flip Box -->
+        <div id="flashcard" class="flashcard-box" role="button" tabindex="0" aria-label="Флашкартын хариуг харах" onclick="flipFlashcard()">
+          <div id="card-hanzi" class="flashcard-hanzi">爱</div>
+          <div id="card-hint" class="flashcard-hint">Дарж хариуг харах</div>
+
+          <!-- Back of Card (Hidden initially) -->
+          <div id="card-back" class="card-back-content" style="display: none;">
+            <div id="card-pinyin" class="flashcard-pinyin">ài</div>
+            <div id="card-meaning" class="flashcard-meaning">хайрлах, дурлах</div>
+            <div id="card-example" class="flashcard-details">Жишээ: 我爱你 (Би чамд хайртай)</div>
+          </div>
+        </div>
+
+        <!-- SRS Rating Buttons (SM-2 Algorithm) -->
+        <div id="srs-buttons" class="srs-buttons" style="display: none;">
+          <button class="srs-btn srs-again" data-grade="1" onclick="rateCard(1)">
+            <span>Дахин</span>
+            <span class="srs-time">&lt; 1 мин</span>
+          </button>
+          <button class="srs-btn srs-hard" data-grade="2" onclick="rateCard(2)">
+            <span>Хэцүү</span>
+            <span class="srs-time">Маргааш</span>
+          </button>
+          <button class="srs-btn srs-good" data-grade="3" onclick="rateCard(3)">
+            <span>Сайн</span>
+            <span class="srs-time">3 хоног</span>
+          </button>
+          <button class="srs-btn srs-easy" data-grade="4" onclick="rateCard(4)">
+            <span>Хялбар</span>
+            <span class="srs-time">7 хоног</span>
+          </button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- TAB 4: QUIZ & EXERCISES -->
+    <section id="tab-quiz" class="tab-content">
+      
+      <!-- Quiz Mode Selector -->
+      <div style="display: flex; justify-content: center; gap: 0.5rem; margin-bottom: 1.25rem; flex-wrap: wrap;">
+        <button class="chip active" data-quiz-mode="hanzi_to_mn" onclick="startQuizMode('hanzi_to_mn')">Ханз ➔ Монгол</button>
+        <button class="chip" data-quiz-mode="mn_to_hanzi" onclick="startQuizMode('mn_to_hanzi')">Монгол ➔ Ханз</button>
+        <button class="chip" data-quiz-mode="listening" onclick="startQuizMode('listening')">Сонсох тест 🔊</button>
+      </div>
+
+      <!-- Quiz Card Display -->
+      <div id="quiz-view" class="quiz-container">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </section>
+
+    <!-- TAB 5: GRAMMAR LESSONS (HSK 1 - 9) -->
+    <section id="tab-grammar" class="tab-content">
+      <div style="max-width: 800px; margin: 0 auto 1rem auto;">
+        <h2 style="font-size: 1.35rem; font-weight: 800; margin-bottom: 0.35rem;">Хятад хэлний дүрэм (HSK 1–9)</h2>
+        <p style="color: var(--text-muted); font-size: 0.88rem;">
+          Монгол тайлбартай дүрмийн 17 суурь хичээл.
+        </p>
+      </div>
+
+      <div id="grammar-container" class="grammar-list">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </section>
+
+  </main>
+
+  <dialog id="related-words-dialog" class="related-dialog" aria-labelledby="related-words-title" aria-describedby="related-words-description">
+    <div class="related-dialog-header">
+      <h2 id="related-words-title">Ханз орсон үгс</h2>
+      <button class="learn-button" onclick="closeRelatedWords()" aria-label="Холбоотой үгсийг хаах">✕ Хаах</button>
+    </div>
+    <div class="related-dialog-body">
+      <p id="related-words-description">Энэ ханзыг агуулсан шинэ HSK үгс. Үг бүрийн утгыг тусад нь сурна; ханзны түүхэн хувирал гэсэн тайлбар биш.</p>
+      <div class="related-dialog-controls">
+        <label>Үг, дуудлага, утгаар хайх <input id="related-words-search" type="search" oninput="filterRelatedWords()" placeholder="Ханз, pinyin, монгол утга…"></label>
+        <label>Үгийн HSK түвшин <select id="related-words-level" onchange="filterRelatedWords()"><option value="all">Бүх түвшин</option><option value="1">HSK 1</option><option value="2">HSK 2</option><option value="3">HSK 3</option><option value="4">HSK 4</option><option value="5">HSK 5</option><option value="6">HSK 6</option><option value="7_9">HSK 7–9</option></select></label>
+      </div>
+      <div class="related-mode-controls" role="group" aria-label="Холбоотой үгсийн харагдац">
+        <button class="chip" data-related-mode="list" onclick="setRelatedMode('list')">Жагсаалт</button>
+        <button class="chip" data-related-mode="map" onclick="setRelatedMode('map')">Мод</button>
+      </div>
+      <div id="related-curated-link"></div>
+      <p id="related-words-count" role="status"></p>
+      <div id="related-words-results"></div>
+    </div>
+  </dialog>
+
+  <!-- MOBILE FIXED BOTTOM NAVIGATION BAR (Thumb Ergonomic for Smartphones) -->
+  <nav class="bottom-nav-bar" aria-label="Гар утасны үндсэн цэс"><div class="bottom-nav-container"><button class="bottom-tab-btn active" data-tab="learn" onclick="switchTab('learn')"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m3 10 9-7 9 7v10H3Z"/><path d="M9 20v-7h6v7"/></svg><span class="tab-label">Хичээл</span></button><button class="bottom-tab-btn" data-tab="vocab" onclick="switchTab('vocab')"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 4h7v16H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2ZM13 4h7a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-7Z"/></svg><span class="tab-label">Үгс</span></button><button class="bottom-tab-btn" data-tab="writer" onclick="switchTab('writer')"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m4 15 11-11 5 5L9 20H4Z"/><path d="m13 6 5 5M4 15l5 5"/></svg><span class="tab-label">Бичих</span></button><button class="bottom-tab-btn" data-tab="srs" onclick="switchTab('srs')"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="5" y="6" width="15" height="15" rx="2"/><path d="M16 3H4a2 2 0 0 0-2 2v12M9 11h7M9 15h5"/></svg><span class="tab-label">Карт</span></button><button class="bottom-tab-btn" data-tab="quiz" onclick="switchTab('quiz')"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="m16 8 5-5M17 3h4v4"/></svg><span class="tab-label">Сорил</span></button><button class="bottom-tab-btn" data-tab="grammar" onclick="switchTab('grammar')"><svg class="ui-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5h16M4 12h16M4 19h16M8 3v4M16 10v4M10 17v4"/></svg><span class="tab-label">Дүрэм</span></button></div></nav>
+
+  <!-- Complete Offline Data Bundle (HSK 1–9, 11,000 words, 3,088 stroke characters) -->
+  <script src="js/hanzi-writer.min.js"></script>
+  <script src="js/data_bundle.js?v=20261101-nahia2"></script>
+  <script src="js/app.js?v=20261101-nahia2"></script>
+  <script src="js/radical_data.js?v=20261101-nahia2"></script>
+  <script src="js/picture_data.js?v=20261101-nahia2"></script>
+  <script src="js/learning.js?v=20261101-nahia2"></script>
+
+  <script src="js/radical_lessons_data.js?v=20261101-nahia2"></script>
+  <script src="js/radical_lessons.js?v=20261101-nahia2"></script>
+  <script src="js/word_trees.js?v=20261101-nahia2"></script>
+  <script src="js/related_words.js?v=20261101-nahia2"></script>
+  <script src="js/presentation.js?v=20261101-nahia2"></script>
+</body>
+</html>

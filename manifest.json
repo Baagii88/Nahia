@@ -1,0 +1,24 @@
+{
+  "name": "Нахиа · Хятад хэл · HSK 1–9",
+  "short_name": "Нахиа",
+  "description": "Хятад хэлийг өдөр бүр бага багаар. Монгол тайлбар, ханз бичих, хичээл, давтах карт.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7f1",
+  "theme_color": "#2d5d48",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/nahia-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/nahia-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

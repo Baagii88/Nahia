@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-01",
+  "reviewer": "Codex AI; no claim of professional human review",
+  "radicals": 214,
+  "examples": 701,
+  "exercises": 428,
+  "untranslated": 0,
+  "missing_graphics": 0,
+  "dictionary_source": "https://github.com/skishore/makemeahanzi/blob/master/dictionary.txt",
+  "graphics_source": "https://github.com/skishore/makemeahanzi/blob/master/graphics.txt",
+  "dictionary_sha256": "744bb05d5b0742e9ee35c37791f94d56a173349b3367569e7ca11e510364d203",
+  "method": "IDS component leaves and per-stroke match paths; disambiguate left/right 阝 and flesh ⺼; source etymology role is separate from indexing radical",
+  "licenses": "data/licenses/MAKEMEAHANZI_COPYING.txt; LGPL-3.0.txt; GPL-3.0.txt; ARPHICPL.TXT"
+}

@@ -1,0 +1,839 @@
+[
+  {
+    "id": "hsk5_552",
+    "simplified": "背景",
+    "pinyin": "bèi jǐng",
+    "mongolian": "суурь нөхцөл, нөхцөл байдал; дэвсгэр",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_9",
+    "simplified": "本",
+    "pinyin": "běn",
+    "mongolian": "угийн, анхнаасаа; энэ, одоогийн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_442",
+    "simplified": "避免",
+    "pinyin": "bì miǎn",
+    "mongolian": "зайлсхийх, сэргийлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_593",
+    "simplified": "标志",
+    "pinyin": "biāo zhì",
+    "mongolian": "тэмдэг, бэлгэ тэмдэг; тэмдэглэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_48",
+    "simplified": "别",
+    "pinyin": "bié",
+    "mongolian": "салах, салж явах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_14",
+    "simplified": "才",
+    "pinyin": "cái",
+    "mongolian": "авьяас, чадвар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_735",
+    "simplified": "成就",
+    "pinyin": "chéng jiù",
+    "mongolian": "амжилт, ололт; амжилтад хүрэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_142",
+    "simplified": "创新",
+    "pinyin": "chuàng xīn",
+    "mongolian": "шинэ санаачилга гаргах, шинэчлэх; шинэ санаачилга",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_659",
+    "simplified": "创业",
+    "pinyin": "chuàng yè",
+    "mongolian": "бизнес эхлүүлэх, аж ахуй эрхлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_277",
+    "simplified": "创造",
+    "pinyin": "chuàng zào",
+    "mongolian": "бүтээх, бий болгох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_63",
+    "simplified": "代表",
+    "pinyin": "dài biǎo",
+    "mongolian": "төлөөлөх; төлөөлөгч",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_74",
+    "simplified": "分析",
+    "pinyin": "fēn xī",
+    "mongolian": "дүн шинжилгээ хийх, задлан шинжлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_70",
+    "simplified": "改革",
+    "pinyin": "gǎi gé",
+    "mongolian": "шинэчлэх, өөрчлөн байгуулах; шинэчлэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_486",
+    "simplified": "概念",
+    "pinyin": "gài niàn",
+    "mongolian": "ойлголт",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_91",
+    "simplified": "功能",
+    "pinyin": "gōng néng",
+    "mongolian": "үүрэг, үйл ажиллагаа; функц",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_485",
+    "simplified": "贡献",
+    "pinyin": "gòng xiàn",
+    "mongolian": "хувь нэмэр оруулах; хувь нэмэр",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_625",
+    "simplified": "沟通",
+    "pinyin": "gōu tōng",
+    "mongolian": "харилцах, ойлголцох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_348",
+    "simplified": "观察",
+    "pinyin": "guān chá",
+    "mongolian": "ажиглах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_213",
+    "simplified": "规模",
+    "pinyin": "guī mó",
+    "mongolian": "цар хүрээ, хэмжээ, далайц",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_84",
+    "simplified": "行业",
+    "pinyin": "háng yè",
+    "mongolian": "салбар, мэргэжлийн хүрээ",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_2",
+    "simplified": "好",
+    "pinyin": "hào",
+    "mongolian": "дуртай байх, таалах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_61",
+    "simplified": "合作",
+    "pinyin": "hé zuò",
+    "mongolian": "хамтрах; хамтын ажиллагаа",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_275",
+    "simplified": "恢复",
+    "pinyin": "huī fù",
+    "mongolian": "сэргээх, сэргэх; хэвийн байдалд оруулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_737",
+    "simplified": "计算机",
+    "pinyin": "jì suàn jī",
+    "mongolian": "компьютер, тооцоолох машин",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_130",
+    "simplified": "价值",
+    "pinyin": "jià zhí",
+    "mongolian": "үнэ цэнэ, ач холбогдол",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_72",
+    "simplified": "建立",
+    "pinyin": "jiàn lì",
+    "mongolian": "байгуулах, бий болгох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_126",
+    "simplified": "结构",
+    "pinyin": "jié gòu",
+    "mongolian": "бүтэц",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_90",
+    "simplified": "精神",
+    "pinyin": "jīng shen",
+    "mongolian": "оюун санаа, сэтгэл; сэргэг, цовоо",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_5",
+    "simplified": "看",
+    "pinyin": "kān",
+    "mongolian": "харж хандах, асрах; манах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_706",
+    "simplified": "科研",
+    "pinyin": "kē yán",
+    "mongolian": "эрдэм шинжилгээний судалгаа",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_191",
+    "simplified": "理论",
+    "pinyin": "lǐ lùn",
+    "mongolian": "онол; онол боловсруулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_315",
+    "simplified": "利润",
+    "pinyin": "lì rùn",
+    "mongolian": "ашиг, цэвэр ашиг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_681",
+    "simplified": "秘密",
+    "pinyin": "mì mì",
+    "mongolian": "нууц; нууцын",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_60",
+    "simplified": "面",
+    "pinyin": "miàn",
+    "mongolian": "тал, чиглэл, гадаргуу",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_435",
+    "simplified": "平台",
+    "pinyin": "píng tái",
+    "mongolian": "тавцан; платформ, талбар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_6",
+    "simplified": "企业",
+    "pinyin": "qǐ yè",
+    "mongolian": "аж ахуйн нэгж, компани",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_391",
+    "simplified": "趋势",
+    "pinyin": "qū shì",
+    "mongolian": "чиг хандлага",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_542",
+    "simplified": "权利",
+    "pinyin": "quán lì",
+    "mongolian": "эрх, хууль ёсны эрх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_313",
+    "simplified": "人类",
+    "pinyin": "rén lèi",
+    "mongolian": "хүн төрөлхтөн",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_342",
+    "simplified": "如今",
+    "pinyin": "rú jīn",
+    "mongolian": "өнөө үед, одоо цагт",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_343",
+    "simplified": "软件",
+    "pinyin": "ruǎn jiàn",
+    "mongolian": "програм хангамж",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_207",
+    "simplified": "设备",
+    "pinyin": "shè bèi",
+    "mongolian": "тоног төхөөрөмж",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_318",
+    "simplified": "社区",
+    "pinyin": "shè qū",
+    "mongolian": "орон нутгийн хамт олон; орон сууцны хороолол",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_337",
+    "simplified": "手段",
+    "pinyin": "shǒu duàn",
+    "mongolian": "арга хэрэгсэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_159",
+    "simplified": "数据",
+    "pinyin": "shù jù",
+    "mongolian": "өгөгдөл, тоон мэдээлэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_736",
+    "simplified": "思维",
+    "pinyin": "sī wéi",
+    "mongolian": "сэтгэхүй, сэтгэлгээ; сэтгэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_534",
+    "simplified": "特征",
+    "pinyin": "tè zhēng",
+    "mongolian": "онцлог шинж",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_459",
+    "simplified": "挑战",
+    "pinyin": "tiǎo zhàn",
+    "mongolian": "сорилт; сорих, өрсөлдөхийг уриалах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_42",
+    "simplified": "头",
+    "pinyin": "tou",
+    "mongolian": "зарим нэр үгийн ард залгадаг дагавар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_477",
+    "simplified": "推广",
+    "pinyin": "tuī guǎng",
+    "mongolian": "дэлгэрүүлэх, түгээх, сурталчлах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_585",
+    "simplified": "威胁",
+    "pinyin": "wēi xié",
+    "mongolian": "заналхийлэх; заналхийлэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_620",
+    "simplified": "喂",
+    "pinyin": "wèi",
+    "mongolian": "хооллох, тэжээх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_672",
+    "simplified": "文学",
+    "pinyin": "wén xué",
+    "mongolian": "уран зохиол",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_38",
+    "simplified": "系统",
+    "pinyin": "xì tǒng",
+    "mongolian": "тогтолцоо, систем; системтэй",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_287",
+    "simplified": "现实",
+    "pinyin": "xiàn shí",
+    "mongolian": "бодит байдал; бодит",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_31",
+    "simplified": "项目",
+    "pinyin": "xiàng mù",
+    "mongolian": "төсөл; зүйл, төрөл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_212",
+    "simplified": "消费",
+    "pinyin": "xiāo fèi",
+    "mongolian": "хэрэглэх, зарцуулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_163",
+    "simplified": "消费者",
+    "pinyin": "xiāo fèi zhě",
+    "mongolian": "хэрэглэгч, худалдан авагч",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_677",
+    "simplified": "效率",
+    "pinyin": "xiào lǜ",
+    "mongolian": "үр ашиг, бүтээмж",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_746",
+    "simplified": "研发",
+    "pinyin": "yán fā",
+    "mongolian": "судлах, хөгжүүлэх; судалгаа ба хөгжүүлэлт",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_814",
+    "simplified": "义务",
+    "pinyin": "yì wù",
+    "mongolian": "үүрэг, хүлээсэн үүрэг; сайн дурын",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_166",
+    "simplified": "用户",
+    "pinyin": "yòng hù",
+    "mongolian": "хэрэглэгч",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_157",
+    "simplified": "优势",
+    "pinyin": "yōu shì",
+    "mongolian": "давуу тал, давамгай байдал",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_268",
+    "simplified": "原则",
+    "pinyin": "yuán zé",
+    "mongolian": "зарчим",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_553",
+    "simplified": "运输",
+    "pinyin": "yùn shū",
+    "mongolian": "тээвэрлэх; тээвэр",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_875",
+    "simplified": "哲学",
+    "pinyin": "zhé xué",
+    "mongolian": "гүн ухаан, философи",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_18",
+    "simplified": "政府",
+    "pinyin": "zhèng fǔ",
+    "mongolian": "засгийн газар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_834",
+    "simplified": "智慧",
+    "pinyin": "zhì huì",
+    "mongolian": "мэргэн ухаан, оюун ухаан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_968",
+    "simplified": "智能",
+    "pinyin": "zhì néng",
+    "mongolian": "оюун ухаан; ухаалаг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_460",
+    "simplified": "主题",
+    "pinyin": "zhǔ tí",
+    "mongolian": "гол сэдэв, гол санаа",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_584",
+    "simplified": "资格",
+    "pinyin": "zī gé",
+    "mongolian": "шаардлага хангасан байдал; эрх, мэргэшил",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_112",
+    "simplified": "资源",
+    "pinyin": "zī yuán",
+    "mongolian": "нөөц, нөөц баялаг",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk5_28",
+    "simplified": "组织",
+    "pinyin": "zǔ zhī",
+    "mongolian": "байгууллага; зохион байгуулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_14",
+    "simplified": "地方",
+    "pinyin": "dì fāng",
+    "mongolian": "газар, байршил",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_4",
+    "simplified": "该",
+    "pinyin": "gāi",
+    "mongolian": "тухайн, тэр, ийм",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_42",
+    "simplified": "金融",
+    "pinyin": "jīn róng",
+    "mongolian": "санхүү, санхүүгийн үйл ажиллагаа",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_1767",
+    "simplified": "人工智能",
+    "pinyin": "rén gōng zhì néng",
+    "mongolian": "хиймэл оюун ухаан",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_10",
+    "simplified": "投资",
+    "pinyin": "tóu zī",
+    "mongolian": "хөрөнгө оруулах; хөрөнгө оруулалт",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_1713",
+    "simplified": "一帆风顺",
+    "pinyin": "yì fān fēng shùn",
+    "mongolian": "ажил үйлс саадгүй, бүтэмжтэй байх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk6_20",
+    "simplified": "政策",
+    "pinyin": "zhèng cè",
+    "mongolian": "бодлого",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_5057",
+    "simplified": "巴不得",
+    "pinyin": "bā bu dé",
+    "mongolian": "тэсэн ядан хүсэх, ихэд хүсэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_5217",
+    "simplified": "半途而废",
+    "pinyin": "bàn tú ér fèi",
+    "mongolian": "ажлаа зам дундаас нь орхих, дутуу орхих",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_142",
+    "simplified": "并非",
+    "pinyin": "bìng fēi",
+    "mongolian": "үнэндээ ... биш; огтхон ч биш",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_4213",
+    "simplified": "持之以恒",
+    "pinyin": "chí zhī yǐ héng",
+    "mongolian": "тууштай, шантралгүй үргэлжлүүлэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_2071",
+    "simplified": "除外",
+    "pinyin": "chú wài",
+    "mongolian": "хасах, эс тооцох; гадна",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_7",
+    "simplified": "打",
+    "pinyin": "dǎ",
+    "mongolian": "олон үйл үгийн холбоонд хэрэглэгдэх ерөнхий үйлдэх үг; цохих, тоглох, хийх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_1",
+    "simplified": "和",
+    "pinyin": "hé",
+    "mongolian": "ба, болон; хамт; эв найрамдал",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_21",
+    "simplified": "精神",
+    "pinyin": "jīng shén",
+    "mongolian": "оюун санаа, ухамсар, сэтгэлгээ; сэтгэцийн; мөн чанар",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_5450",
+    "simplified": "井底之蛙",
+    "pinyin": "jǐng dǐ zhī wā",
+    "mongolian": "мэдлэг, үзэл бодол нь хязгаарлагдмал хүн; худгийн мэлхий",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_402",
+    "simplified": "可谓",
+    "pinyin": "kě wèi",
+    "mongolian": "гэж хэлж болох",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_53",
+    "simplified": "所谓",
+    "pinyin": "suǒ wèi",
+    "mongolian": "... гэж нэрлэгддэг, ... гэгдэх",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_177",
+    "simplified": "予以",
+    "pinyin": "yǔ yǐ",
+    "mongolian": "олгох, үзүүлэх; хэрэглэх, ногдуулах",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  },
+  {
+    "id": "hsk7_9_4821",
+    "simplified": "总而言之",
+    "pinyin": "zǒng ér yán zhī",
+    "mongolian": "товчхондоо, нэгтгэн хэлбэл",
+    "status": "approved",
+    "reviewed_by": "Codex AI final reviewer",
+    "reviewed_at": "2026-10-31"
+  }
+]

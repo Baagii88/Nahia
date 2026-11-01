@@ -1,0 +1,2031 @@
+{
+  "total": 11000,
+  "pinyin_changes": [
+    {
+      "id": "hsk1_282",
+      "word": "不客气",
+      "before": "bù kè qi",
+      "after": "bú kè qi",
+      "pdf_page": 2
+    },
+    {
+      "id": "hsk1_96",
+      "word": "不要",
+      "before": "bù yào",
+      "after": "bú yào",
+      "pdf_page": 2
+    },
+    {
+      "id": "hsk1_242",
+      "word": "那边",
+      "before": "nà bian",
+      "after": "nà biān",
+      "pdf_page": 8
+    },
+    {
+      "id": "hsk1_177",
+      "word": "那里",
+      "before": "nà li",
+      "after": "nà lǐ",
+      "pdf_page": 8
+    },
+    {
+      "id": "hsk1_99",
+      "word": "学生",
+      "before": "xué sheng",
+      "after": "xué shēng",
+      "pdf_page": 12
+    },
+    {
+      "id": "hsk1_205",
+      "word": "一半",
+      "before": "yī bàn",
+      "after": "yí bàn",
+      "pdf_page": 13
+    },
+    {
+      "id": "hsk1_107",
+      "word": "一下",
+      "before": "yī xià",
+      "after": "yí xià",
+      "pdf_page": 13
+    },
+    {
+      "id": "hsk1_279",
+      "word": "一点儿",
+      "before": "yī diǎn r",
+      "after": "yì diǎn r",
+      "pdf_page": 13
+    },
+    {
+      "id": "hsk1_74",
+      "word": "一些",
+      "before": "yī xiē",
+      "after": "yì xiē",
+      "pdf_page": 13
+    },
+    {
+      "id": "hsk2_68",
+      "word": "不错",
+      "before": "bù cuò",
+      "after": "bú cuò",
+      "pdf_page": 2
+    },
+    {
+      "id": "pdf_hsk2_51",
+      "word": "过",
+      "before": "guò",
+      "after": "guo",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk2_119",
+      "word": "后面",
+      "before": "hòu mian",
+      "after": "hòu miàn",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk2_78",
+      "word": "回来",
+      "before": "huí lai",
+      "after": "huí lái",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk2_118",
+      "word": "回去",
+      "before": "huí qu",
+      "after": "huí qù",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk2_39",
+      "word": "起来",
+      "before": "qi lai",
+      "after": "qǐ lái",
+      "pdf_page": 7
+    },
+    {
+      "id": "hsk2_203",
+      "word": "网上",
+      "before": "wǎng shàng",
+      "after": "wǎng shang",
+      "pdf_page": 8
+    },
+    {
+      "id": "hsk2_88",
+      "word": "下来",
+      "before": "xià lai",
+      "after": "xià lái",
+      "pdf_page": 9
+    },
+    {
+      "id": "hsk2_156",
+      "word": "一会儿",
+      "before": "yī huì r",
+      "after": "yí huì r",
+      "pdf_page": 9
+    },
+    {
+      "id": "hsk2_37",
+      "word": "一起",
+      "before": "yī qǐ",
+      "after": "yì qǐ",
+      "pdf_page": 9
+    },
+    {
+      "id": "hsk3_104",
+      "word": "别人",
+      "before": "bié ren",
+      "after": "bié rén",
+      "pdf_page": 3
+    },
+    {
+      "id": "hsk3_254",
+      "word": "不但",
+      "before": "bù dàn",
+      "after": "bú dàn",
+      "pdf_page": 3
+    },
+    {
+      "id": "hsk3_309",
+      "word": "不见",
+      "before": "bù jiàn",
+      "after": "bú jiàn",
+      "pdf_page": 3
+    },
+    {
+      "id": "hsk3_200",
+      "word": "不用",
+      "before": "bù yòng",
+      "after": "bú yòng",
+      "pdf_page": 3
+    },
+    {
+      "id": "hsk3_323",
+      "word": "聪明",
+      "before": "cōng ming",
+      "after": "cōng míng",
+      "pdf_page": 5
+    },
+    {
+      "id": "pdf_hsk3_83",
+      "word": "得",
+      "before": "děi",
+      "after": "dé",
+      "pdf_page": 5
+    },
+    {
+      "id": "hsk3_167",
+      "word": "刚刚",
+      "before": "gāng gang",
+      "after": "gāng gāng",
+      "pdf_page": 8
+    },
+    {
+      "id": "hsk3_61",
+      "word": "关系",
+      "before": "guān xi",
+      "after": "guān xì",
+      "pdf_page": 8
+    },
+    {
+      "id": "hsk3_186",
+      "word": "看来",
+      "before": "kàn lai",
+      "after": "kàn lái",
+      "pdf_page": 11
+    },
+    {
+      "id": "hsk3_267",
+      "word": "太阳",
+      "before": "tài yang",
+      "after": "tài yáng",
+      "pdf_page": 16
+    },
+    {
+      "id": "hsk3_165",
+      "word": "心里",
+      "before": "xīn li",
+      "after": "xīn lǐ",
+      "pdf_page": 19
+    },
+    {
+      "id": "hsk3_33",
+      "word": "一定",
+      "before": "yī dìng",
+      "after": "yí dìng",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_402",
+      "word": "一共",
+      "before": "yī gòng",
+      "after": "yí gòng",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_486",
+      "word": "一块儿",
+      "before": "yī kuài r",
+      "after": "yí kuài r",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_66",
+      "word": "一样",
+      "before": "yī yàng",
+      "after": "yí yàng",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_99",
+      "word": "一般",
+      "before": "yī bān",
+      "after": "yì bān",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_208",
+      "word": "一边",
+      "before": "yī biān",
+      "after": "yì biān",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_40",
+      "word": "一直",
+      "before": "yī zhí",
+      "after": "yì zhí",
+      "pdf_page": 20
+    },
+    {
+      "id": "hsk3_292",
+      "word": "照顾",
+      "before": "zhào gu",
+      "after": "zhào gù",
+      "pdf_page": 22
+    },
+    {
+      "id": "hsk4_582",
+      "word": "不必",
+      "before": "bù bì",
+      "after": "bú bì",
+      "pdf_page": 3
+    },
+    {
+      "id": "hsk4_813",
+      "word": "不便",
+      "before": "bù biàn",
+      "after": "bú biàn",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk4_112",
+      "word": "不断",
+      "before": "bù duàn",
+      "after": "bú duàn",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk4_389",
+      "word": "不够",
+      "before": "bù gòu",
+      "after": "bú gòu",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk4_56",
+      "word": "不过",
+      "before": "bù guò",
+      "after": "bú guò",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk4_670",
+      "word": "不论",
+      "before": "bù lùn",
+      "after": "bú lùn",
+      "pdf_page": 4
+    },
+    {
+      "id": "pdf_hsk4_86",
+      "word": "重",
+      "before": "zhòng",
+      "after": "chóng",
+      "pdf_page": 5
+    },
+    {
+      "id": "hsk4_324",
+      "word": "费用",
+      "before": "fèi yòng",
+      "after": "fèi yong",
+      "pdf_page": 10
+    },
+    {
+      "id": "hsk4_646",
+      "word": "好处",
+      "before": "hǎo chu",
+      "after": "hǎo chù",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk4_993",
+      "word": "坏处",
+      "before": "huài chu",
+      "after": "huài chù",
+      "pdf_page": 15
+    },
+    {
+      "id": "hsk4_857",
+      "word": "活泼",
+      "before": "huó po",
+      "after": "huó pō",
+      "pdf_page": 15
+    },
+    {
+      "id": "hsk4_583",
+      "word": "基本上",
+      "before": "jī běn shang",
+      "after": "jī běn shàng",
+      "pdf_page": 15
+    },
+    {
+      "id": "hsk4_878",
+      "word": "价钱",
+      "before": "jià qian",
+      "after": "jià qián",
+      "pdf_page": 17
+    },
+    {
+      "id": "pdf_hsk4_439",
+      "word": "空",
+      "before": "kōng",
+      "after": "kòng",
+      "pdf_page": 22
+    },
+    {
+      "id": "hsk4_822",
+      "word": "老是",
+      "before": "lǎo shi",
+      "after": "lǎo shì",
+      "pdf_page": 23
+    },
+    {
+      "id": "hsk4_417",
+      "word": "留下",
+      "before": "liú xià",
+      "after": "liú xia",
+      "pdf_page": 24
+    },
+    {
+      "id": "pdf_hsk4_534",
+      "word": "嗯",
+      "before": "en",
+      "after": "ǹg",
+      "pdf_page": 26
+    },
+    {
+      "id": "hsk4_767",
+      "word": "受不了",
+      "before": "shòu bù liǎo",
+      "after": "shòu bu liǎo",
+      "pdf_page": 33
+    },
+    {
+      "id": "hsk4_485",
+      "word": "熟悉",
+      "before": "shú xī",
+      "after": "shú xi",
+      "pdf_page": 33
+    },
+    {
+      "id": "hsk4_331",
+      "word": "态度",
+      "before": "tài du",
+      "after": "tài dù",
+      "pdf_page": 34
+    },
+    {
+      "id": "hsk4_513",
+      "word": "味道",
+      "before": "wèi dao",
+      "after": "wèi dào",
+      "pdf_page": 37
+    },
+    {
+      "id": "hsk4_126",
+      "word": "一切",
+      "before": "yī qiè",
+      "after": "yí qiè",
+      "pdf_page": 41
+    },
+    {
+      "id": "hsk4_480",
+      "word": "一生",
+      "before": "yī shēng",
+      "after": "yì shēng",
+      "pdf_page": 41
+    },
+    {
+      "id": "hsk4_884",
+      "word": "月饼",
+      "before": "yuè bǐng",
+      "after": "yuè bing",
+      "pdf_page": 43
+    },
+    {
+      "id": "hsk4_658",
+      "word": "早晨",
+      "before": "zǎo chén",
+      "after": "zǎo chen",
+      "pdf_page": 43
+    },
+    {
+      "id": "hsk4_284",
+      "word": "值得",
+      "before": "zhí de",
+      "after": "zhí dé",
+      "pdf_page": 44
+    },
+    {
+      "id": "hsk5_1066",
+      "word": "不利",
+      "before": "bù lì",
+      "after": "bú lì",
+      "pdf_page": 5
+    },
+    {
+      "id": "hsk5_1035",
+      "word": "不幸",
+      "before": "bù xìng",
+      "after": "bú xìng",
+      "pdf_page": 5
+    },
+    {
+      "id": "hsk5_1551",
+      "word": "不要紧",
+      "before": "bù yào jǐn",
+      "after": "bú yào jǐn",
+      "pdf_page": 5
+    },
+    {
+      "id": "pdf_hsk5_182",
+      "word": "处",
+      "before": "chǔ",
+      "after": "chù",
+      "pdf_page": 9
+    },
+    {
+      "id": "hsk5_835",
+      "word": "道理",
+      "before": "dào li",
+      "after": "dào lǐ",
+      "pdf_page": 12
+    },
+    {
+      "id": "pdf_hsk5_284",
+      "word": "调",
+      "before": "tiáo",
+      "after": "diào",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk5_383",
+      "word": "队伍",
+      "before": "duì wǔ",
+      "after": "duì wu",
+      "pdf_page": 15
+    },
+    {
+      "id": "hsk5_285",
+      "word": "合同",
+      "before": "hé tong",
+      "after": "hé tóng",
+      "pdf_page": 22
+    },
+    {
+      "id": "pdf_hsk5_539",
+      "word": "系",
+      "before": "xì",
+      "after": "jì",
+      "pdf_page": 25
+    },
+    {
+      "id": "hsk5_89",
+      "word": "进一步",
+      "before": "jìn yī bù",
+      "after": "jìn yí bù",
+      "pdf_page": 28
+    },
+    {
+      "id": "hsk5_1316",
+      "word": "口袋",
+      "before": "kǒu dài",
+      "after": "kǒu dai",
+      "pdf_page": 30
+    },
+    {
+      "id": "hsk5_600",
+      "word": "老婆",
+      "before": "lǎo pó",
+      "after": "lǎo po",
+      "pdf_page": 31
+    },
+    {
+      "id": "hsk5_172",
+      "word": "力量",
+      "before": "lì liang",
+      "after": "lì liàng",
+      "pdf_page": 32
+    },
+    {
+      "id": "hsk5_1153",
+      "word": "逻辑",
+      "before": "luó ji",
+      "after": "luó jí",
+      "pdf_page": 33
+    },
+    {
+      "id": "hsk5_1051",
+      "word": "玫瑰",
+      "before": "méi guī",
+      "after": "méi gui",
+      "pdf_page": 34
+    },
+    {
+      "id": "hsk5_317",
+      "word": "欧洲",
+      "before": "Oū zhōu",
+      "after": "Ōu zhōu",
+      "pdf_page": 36
+    },
+    {
+      "id": "hsk5_249",
+      "word": "位置",
+      "before": "wèi zhi",
+      "after": "wèi zhì",
+      "pdf_page": 53
+    },
+    {
+      "id": "hsk5_1629",
+      "word": "下载",
+      "before": "xià zǎi",
+      "after": "xià zài",
+      "pdf_page": 54
+    },
+    {
+      "id": "hsk5_732",
+      "word": "小姐",
+      "before": "xiǎo jie",
+      "after": "xiǎo jiě",
+      "pdf_page": 55
+    },
+    {
+      "id": "hsk5_1445",
+      "word": "要不是",
+      "before": "yào bu shì",
+      "after": "yào bú shì",
+      "pdf_page": 58
+    },
+    {
+      "id": "hsk5_1185",
+      "word": "一次性",
+      "before": "yī cì xìng",
+      "after": "yí cì xìng",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk5_1631",
+      "word": "一代",
+      "before": "yī dài",
+      "after": "yí dài",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk5_424",
+      "word": "一旦",
+      "before": "yī dàn",
+      "after": "yí dàn",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk5_675",
+      "word": "一路",
+      "before": "yī lù",
+      "after": "yí lù",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk5_1600",
+      "word": "一路顺风",
+      "before": "yī lù shùn fēng",
+      "after": "yí lù shùn fēng",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk5_432",
+      "word": "一致",
+      "before": "yī zhì",
+      "after": "yí zhì",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk6_1590",
+      "word": "不耐烦",
+      "before": "bù nài fán",
+      "after": "bú nài fán",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk6_926",
+      "word": "不顾",
+      "before": "bù gù",
+      "after": "bú gù",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk6_1295",
+      "word": "不料",
+      "before": "bù liào",
+      "after": "bú liào",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk6_1174",
+      "word": "不适",
+      "before": "bù shì",
+      "after": "bú shì",
+      "pdf_page": 4
+    },
+    {
+      "id": "hsk6_1339",
+      "word": "不至于",
+      "before": "bù zhì yú",
+      "after": "bú zhì yú",
+      "pdf_page": 5
+    },
+    {
+      "id": "hsk6_815",
+      "word": "尺寸",
+      "before": "chǐ cun",
+      "after": "chǐ cùn",
+      "pdf_page": 9
+    },
+    {
+      "id": "hsk6_1554",
+      "word": "打交道",
+      "before": "dǎ jiāo dào",
+      "after": "dǎ jiāo dao",
+      "pdf_page": 11
+    },
+    {
+      "id": "hsk6_1600",
+      "word": "大吃一惊",
+      "before": "dà chī yī jīng",
+      "after": "dà chī yì jīng",
+      "pdf_page": 12
+    },
+    {
+      "id": "hsk6_459",
+      "word": "倒是",
+      "before": "dào shi",
+      "after": "dào shì",
+      "pdf_page": 13
+    },
+    {
+      "id": "hsk6_1603",
+      "word": "灯笼",
+      "before": "dēng lóng",
+      "after": "dēng long",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk6_525",
+      "word": "恶心",
+      "before": "ě xīn",
+      "after": "ě xin",
+      "pdf_page": 16
+    },
+    {
+      "id": "hsk6_1604",
+      "word": "方方面面",
+      "before": "fāng fāng miàn miàn",
+      "after": "fāngfāngmiànmiàn名",
+      "pdf_page": 17
+    },
+    {
+      "id": "hsk6_515",
+      "word": "夫人",
+      "before": "fū ren",
+      "after": "fū rén",
+      "pdf_page": 18
+    },
+    {
+      "id": "hsk6_634",
+      "word": "教训",
+      "before": "jiào xun",
+      "after": "jiào xùn",
+      "pdf_page": 30
+    },
+    {
+      "id": "pdf_hsk6_754",
+      "word": "卷",
+      "before": "juǎn",
+      "after": "juàn",
+      "pdf_page": 33
+    },
+    {
+      "id": "pdf_hsk6_861",
+      "word": "露",
+      "before": "lù",
+      "after": "lòu",
+      "pdf_page": 38
+    },
+    {
+      "id": "hsk6_804",
+      "word": "码头",
+      "before": "mǎ tou",
+      "after": "mǎ tóu",
+      "pdf_page": 39
+    },
+    {
+      "id": "pdf_hsk6_1128",
+      "word": "散",
+      "before": "sǎn",
+      "after": "sàn",
+      "pdf_page": 49
+    },
+    {
+      "id": "hsk6_584",
+      "word": "势力",
+      "before": "shì li",
+      "after": "shì lì",
+      "pdf_page": 52
+    },
+    {
+      "id": "pdf_hsk6_1335",
+      "word": "吐",
+      "before": "tǔ",
+      "after": "tù",
+      "pdf_page": 58
+    },
+    {
+      "id": "hsk6_1702",
+      "word": "外甥",
+      "before": "wài shēng",
+      "after": "wài sheng",
+      "pdf_page": 58
+    },
+    {
+      "id": "hsk6_1655",
+      "word": "小气",
+      "before": "xiǎo qì",
+      "after": "xiǎo qi",
+      "pdf_page": 62
+    },
+    {
+      "id": "hsk6_1520",
+      "word": "薪水",
+      "before": "xīn shuǐ",
+      "after": "xīn shui",
+      "pdf_page": 63
+    },
+    {
+      "id": "hsk6_1450",
+      "word": "学问",
+      "before": "xué wèn",
+      "after": "xué wen",
+      "pdf_page": 64
+    },
+    {
+      "id": "hsk6_290",
+      "word": "一辈子",
+      "before": "yī bèi zi",
+      "after": "yí bèi zi",
+      "pdf_page": 66
+    },
+    {
+      "id": "hsk6_736",
+      "word": "一带",
+      "before": "yī dài",
+      "after": "yí dài",
+      "pdf_page": 66
+    },
+    {
+      "id": "hsk6_237",
+      "word": "一道",
+      "before": "yī dào",
+      "after": "yí dào",
+      "pdf_page": 66
+    },
+    {
+      "id": "hsk6_968",
+      "word": "一贯",
+      "before": "yī guàn",
+      "after": "yí guàn",
+      "pdf_page": 66
+    },
+    {
+      "id": "hsk6_984",
+      "word": "一律",
+      "before": "yī lǜ",
+      "after": "yí lǜ",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_716",
+      "word": "一向",
+      "before": "yī xiàng",
+      "after": "yí xiàng",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_166",
+      "word": "一系列",
+      "before": "yī xì liè",
+      "after": "yí xì liè",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_944",
+      "word": "一再",
+      "before": "yī zài",
+      "after": "yí zài",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_255",
+      "word": "一阵",
+      "before": "yī zhèn",
+      "after": "yí zhèn",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_1710",
+      "word": "益处",
+      "before": "yì chu",
+      "after": "yì chù",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_1713",
+      "word": "一帆风顺",
+      "before": "yī fān fēng shùn",
+      "after": "yì fān fēng shùn",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_727",
+      "word": "一口气",
+      "before": "yī kǒu qì",
+      "after": "yì kǒu qì",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_1551",
+      "word": "一模一样",
+      "before": "yī mú yī yàng",
+      "after": "yì mú yí yàng",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_488",
+      "word": "一身",
+      "before": "yī shēn",
+      "after": "yì shēn",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_437",
+      "word": "一时",
+      "before": "yī shí",
+      "after": "yì shí",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_842",
+      "word": "一同",
+      "before": "yī tóng",
+      "after": "yì tóng",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk6_1664",
+      "word": "用处",
+      "before": "yòng chu",
+      "after": "yòng chù",
+      "pdf_page": 68
+    },
+    {
+      "id": "pdf_hsk7_9_4",
+      "word": "挨",
+      "before": "āi",
+      "after": "ái",
+      "pdf_page": 2
+    },
+    {
+      "id": "hsk7_9_4624",
+      "word": "爱不释手",
+      "before": "ài bù shì shǒu",
+      "after": "ài bú shì shǒu",
+      "pdf_page": 2
+    },
+    {
+      "id": "hsk7_9_4884",
+      "word": "暗地里",
+      "before": "àn dì li",
+      "after": "àn dì lǐ",
+      "pdf_page": 2
+    },
+    {
+      "id": "hsk7_9_5057",
+      "word": "巴不得",
+      "before": "bā bu de",
+      "after": "bā bu dé",
+      "pdf_page": 3
+    },
+    {
+      "id": "hsk7_9_4862",
+      "word": "比试",
+      "before": "bǐ shì",
+      "after": "bǐ shi",
+      "pdf_page": 9
+    },
+    {
+      "id": "hsk7_9_996",
+      "word": "标识",
+      "before": "biāo zhì",
+      "after": "biāoshí",
+      "pdf_page": 11
+    },
+    {
+      "id": "hsk7_9_5489",
+      "word": "冰山一角",
+      "before": "bīng shān yī jiǎo",
+      "after": "bīng shān yì jiǎo",
+      "pdf_page": 12
+    },
+    {
+      "id": "hsk7_9_310",
+      "word": "不算",
+      "before": "bù suàn",
+      "after": "bú suàn",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_844",
+      "word": "不当",
+      "before": "bù dàng",
+      "after": "bú dàng",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2096",
+      "word": "不定",
+      "before": "bù dìng",
+      "after": "bú dìng",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2862",
+      "word": "不动产",
+      "before": "bù dòng chǎn",
+      "after": "bú dòng chǎn",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_3430",
+      "word": "不见得",
+      "before": "bù jiàn de",
+      "after": "bú jiàn dé",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2012",
+      "word": "不愧",
+      "before": "bù kuì",
+      "after": "bú kuì",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2724",
+      "word": "不力",
+      "before": "bù lì",
+      "after": "bú lì",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_3330",
+      "word": "不妙",
+      "before": "bù miào",
+      "after": "bú miào",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2322",
+      "word": "不慎",
+      "before": "bù shèn",
+      "after": "bú shèn",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_514",
+      "word": "不下",
+      "before": "bù xià",
+      "after": "bú xià",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_5101",
+      "word": "不像话",
+      "before": "bù xiàng huà",
+      "after": "bú xiàng huà",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_5371",
+      "word": "不肖",
+      "before": "bù xiào",
+      "after": "bú xiào",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2132",
+      "word": "不屑",
+      "before": "bù xiè",
+      "after": "bú xiè",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_2249",
+      "word": "不懈",
+      "before": "bù xiè",
+      "after": "bú xiè",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_4918",
+      "word": "不厌其烦",
+      "before": "bù yàn qí fán",
+      "after": "bú yàn qí fán",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_4104",
+      "word": "不亚于",
+      "before": "bù yà yú",
+      "after": "bú yà yú",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_4946",
+      "word": "不翼而飞",
+      "before": "bù yì ér fēi",
+      "after": "bú yì ér fēi",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_4415",
+      "word": "不亦乐乎",
+      "before": "bù yì lè hū",
+      "after": "bú yì lè hū",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_3664",
+      "word": "不正之风",
+      "before": "bù zhèng zhī fēng",
+      "after": "bú zhèng zhī fēng",
+      "pdf_page": 14
+    },
+    {
+      "id": "hsk7_9_4072",
+      "word": "不折不扣",
+      "before": "bù zhé bù kòu",
+      "after": "bù zhé bú kòu",
+      "pdf_page": 16
+    },
+    {
+      "id": "hsk7_9_5269",
+      "word": "从容不迫",
+      "before": "cóng róng bù pò",
+      "after": "cóng róng bú pò",
+      "pdf_page": 30
+    },
+    {
+      "id": "hsk7_9_5041",
+      "word": "大大咧咧",
+      "before": "dà dà liē liē",
+      "after": "dà da liē liē",
+      "pdf_page": 32
+    },
+    {
+      "id": "hsk7_9_3216",
+      "word": "大意",
+      "before": "dà yì",
+      "after": "dà yi",
+      "pdf_page": 33
+    },
+    {
+      "id": "pdf_hsk7_9_773",
+      "word": "担",
+      "before": "dān",
+      "after": "dàn",
+      "pdf_page": 34
+    },
+    {
+      "id": "hsk7_9_1901",
+      "word": "动静",
+      "before": "dòng jìng",
+      "after": "dòng jing",
+      "pdf_page": 41
+    },
+    {
+      "id": "hsk7_9_4236",
+      "word": "耳目一新",
+      "before": "ěr mù yī xīn",
+      "after": "ěr mù yì xīn",
+      "pdf_page": 44
+    },
+    {
+      "id": "hsk7_9_1844",
+      "word": "吩咐",
+      "before": "fēn fu",
+      "after": "fēn fù",
+      "pdf_page": 50
+    },
+    {
+      "id": "pdf_hsk7_9_1216",
+      "word": "缝",
+      "before": "fèng",
+      "after": "féng",
+      "pdf_page": 52
+    },
+    {
+      "id": "hsk7_9_4833",
+      "word": "格格不入",
+      "before": "gé gé bù rù",
+      "after": "gé gé bú rù",
+      "pdf_page": 57
+    },
+    {
+      "id": "hsk7_9_659",
+      "word": "格式",
+      "before": "gé shì",
+      "after": "gé shi",
+      "pdf_page": 58
+    },
+    {
+      "id": "hsk7_9_2766",
+      "word": "供不应求",
+      "before": "gōng bù yìng qiú",
+      "after": "gōng bú yìng qiú",
+      "pdf_page": 59
+    },
+    {
+      "id": "hsk7_9_4307",
+      "word": "恭维",
+      "before": "gōng wei",
+      "after": "gōng wéi",
+      "pdf_page": 60
+    },
+    {
+      "id": "hsk7_9_2123",
+      "word": "固执",
+      "before": "gù zhí",
+      "after": "gù zhi",
+      "pdf_page": 62
+    },
+    {
+      "id": "hsk7_9_5192",
+      "word": "过意不去",
+      "before": "guò yì bù qù",
+      "after": "guò yì bú qù",
+      "pdf_page": 66
+    },
+    {
+      "id": "hsk7_9_4704",
+      "word": "憨厚",
+      "before": "hān hou",
+      "after": "hān hòu",
+      "pdf_page": 67
+    },
+    {
+      "id": "hsk7_9_4216",
+      "word": "行家",
+      "before": "háng jiā",
+      "after": "háng jia",
+      "pdf_page": 68
+    },
+    {
+      "id": "hsk7_9_2675",
+      "word": "红火",
+      "before": "hóng huǒ",
+      "after": "hóng huo",
+      "pdf_page": 71
+    },
+    {
+      "id": "hsk7_9_4577",
+      "word": "焕然一新",
+      "before": "huàn rán yī xīn",
+      "after": "huàn rán yì xīn",
+      "pdf_page": 75
+    },
+    {
+      "id": "pdf_hsk7_9_1775",
+      "word": "晃",
+      "before": "huǎng",
+      "after": "huàng",
+      "pdf_page": 75
+    },
+    {
+      "id": "hsk7_9_4069",
+      "word": "祸害",
+      "before": "huò hài",
+      "after": "huò hai",
+      "pdf_page": 78
+    },
+    {
+      "id": "hsk7_9_4092",
+      "word": "脚踏实地",
+      "before": "jiǎo tà shí dì",
+      "after": "jiǎo tā shí dì",
+      "pdf_page": 87
+    },
+    {
+      "id": "hsk7_9_4364",
+      "word": "街坊",
+      "before": "jiē fāng",
+      "after": "jiē fang",
+      "pdf_page": 88
+    },
+    {
+      "id": "hsk7_9_4727",
+      "word": "节气",
+      "before": "jié qi",
+      "after": "jié qì",
+      "pdf_page": 89
+    },
+    {
+      "id": "hsk7_9_3099",
+      "word": "居高不下",
+      "before": "jū gāo bù xià",
+      "after": "jū gāo bú xià",
+      "pdf_page": 95
+    },
+    {
+      "id": "hsk7_9_5284",
+      "word": "举棋不定",
+      "before": "jǔ qí bù dìng",
+      "after": "jǔ qí bú dìng",
+      "pdf_page": 95
+    },
+    {
+      "id": "pdf_hsk7_9_2270",
+      "word": "圈",
+      "before": "juān",
+      "after": "juàn",
+      "pdf_page": 96
+    },
+    {
+      "id": "hsk7_9_1561",
+      "word": "可不是",
+      "before": "kě bu shì",
+      "after": "kě bú shi",
+      "pdf_page": 99
+    },
+    {
+      "id": "hsk7_9_3128",
+      "word": "来之不易",
+      "before": "lái zhī bù yì",
+      "after": "lái zhī bú yì",
+      "pdf_page": 105
+    },
+    {
+      "id": "hsk7_9_1130",
+      "word": "老人家",
+      "before": "lǎo rén jiā",
+      "after": "lǎo ren jia",
+      "pdf_page": 106
+    },
+    {
+      "id": "hsk7_9_3276",
+      "word": "老字号",
+      "before": "lǎo zì hào",
+      "after": "lǎo zì hao",
+      "pdf_page": 106
+    },
+    {
+      "id": "hsk7_9_5031",
+      "word": "累赘",
+      "before": "léi zhuì",
+      "after": "léi zhui",
+      "pdf_page": 106
+    },
+    {
+      "id": "hsk7_9_5127",
+      "word": "灵机一动",
+      "before": "líng jī yī dòng",
+      "after": "líng jī yí dòng",
+      "pdf_page": 111
+    },
+    {
+      "id": "hsk7_9_4367",
+      "word": "门路",
+      "before": "mén lù",
+      "after": "mén lu",
+      "pdf_page": 117
+    },
+    {
+      "id": "pdf_hsk7_9_2778",
+      "word": "闷",
+      "before": "mēn",
+      "after": "mèn",
+      "pdf_page": 117
+    },
+    {
+      "id": "pdf_hsk7_9_2780",
+      "word": "蒙",
+      "before": "mēng",
+      "after": "méng",
+      "pdf_page": 117
+    },
+    {
+      "id": "hsk7_9_2620",
+      "word": "迷惑",
+      "before": "mí huo",
+      "after": "mí huò",
+      "pdf_page": 118
+    },
+    {
+      "id": "hsk7_9_435",
+      "word": "棉花",
+      "before": "mián hua",
+      "after": "mián huā",
+      "pdf_page": 118
+    },
+    {
+      "id": "hsk7_9_4158",
+      "word": "免不了",
+      "before": "miǎn bù liǎo",
+      "after": "miǎn bu liǎo",
+      "pdf_page": 118
+    },
+    {
+      "id": "hsk7_9_2316",
+      "word": "摸索",
+      "before": "mō suo",
+      "after": "mō suǒ",
+      "pdf_page": 120
+    },
+    {
+      "id": "hsk7_9_4600",
+      "word": "难处",
+      "before": "nán chu",
+      "after": "nán chù",
+      "pdf_page": 123
+    },
+    {
+      "id": "hsk7_9_5539",
+      "word": "难得一见",
+      "before": "nán dé yī jiàn",
+      "after": "nán dé yí jiàn",
+      "pdf_page": 123
+    },
+    {
+      "id": "hsk7_9_4322",
+      "word": "能耐",
+      "before": "néng nài",
+      "after": "néng nai",
+      "pdf_page": 124
+    },
+    {
+      "id": "hsk7_9_3863",
+      "word": "念念不忘",
+      "before": "niàn niàn bù wàng",
+      "after": "niàn niàn bú wàng",
+      "pdf_page": 125
+    },
+    {
+      "id": "pdf_hsk7_9_2970",
+      "word": "拧",
+      "before": "nǐng",
+      "after": "níng",
+      "pdf_page": 125
+    },
+    {
+      "id": "hsk7_9_4208",
+      "word": "盘算",
+      "before": "pán suàn",
+      "after": "pán suan",
+      "pdf_page": 127
+    },
+    {
+      "id": "hsk7_9_3548",
+      "word": "篇幅",
+      "before": "piān fu",
+      "after": "piān fú",
+      "pdf_page": 129
+    },
+    {
+      "id": "hsk7_9_4610",
+      "word": "蹊跷",
+      "before": "qī qiāo",
+      "after": "qī qiao",
+      "pdf_page": 133
+    },
+    {
+      "id": "hsk7_9_5347",
+      "word": "千钧一发",
+      "before": "qiān jūn yī fà",
+      "after": "qiān jūn yí fà",
+      "pdf_page": 135
+    },
+    {
+      "id": "pdf_hsk7_9_3259",
+      "word": "呛",
+      "before": "qiāng",
+      "after": "qiàng",
+      "pdf_page": 137
+    },
+    {
+      "id": "hsk7_9_4652",
+      "word": "勤快",
+      "before": "qín kuài",
+      "after": "qín kuai",
+      "pdf_page": 139
+    },
+    {
+      "id": "hsk7_9_3255",
+      "word": "情不自禁",
+      "before": "qíng bù zì jīn",
+      "after": "qíng bú zì jīn",
+      "pdf_page": 140
+    },
+    {
+      "id": "hsk7_9_2168",
+      "word": "拳头",
+      "before": "quán tou",
+      "after": "quán tóu",
+      "pdf_page": 142
+    },
+    {
+      "id": "hsk7_9_1721",
+      "word": "任性",
+      "before": "rèn xìng",
+      "after": "rén xìng",
+      "pdf_page": 144
+    },
+    {
+      "id": "hsk7_9_4929",
+      "word": "日复一日",
+      "before": "rì fù yī rì",
+      "after": "rì fù yí rì",
+      "pdf_page": 144
+    },
+    {
+      "id": "hsk7_9_2974",
+      "word": "试探",
+      "before": "shì tàn",
+      "after": "shì tan",
+      "pdf_page": 156
+    },
+    {
+      "id": "hsk7_9_535",
+      "word": "势头",
+      "before": "shì tóu",
+      "after": "shì tou",
+      "pdf_page": 156
+    },
+    {
+      "id": "hsk7_9_83",
+      "word": "书记",
+      "before": "shū ji",
+      "after": "shū jì",
+      "pdf_page": 158
+    },
+    {
+      "id": "hsk7_9_3808",
+      "word": "算计",
+      "before": "suàn ji",
+      "after": "suàn jì",
+      "pdf_page": 164
+    },
+    {
+      "id": "hsk7_9_5569",
+      "word": "藤蔓",
+      "before": "téng màn",
+      "after": "téngwàn",
+      "pdf_page": 168
+    },
+    {
+      "id": "hsk7_9_5572",
+      "word": "吐槽",
+      "before": "tù cáo",
+      "after": "tǔ cáo",
+      "pdf_page": 173
+    },
+    {
+      "id": "hsk7_9_3957",
+      "word": "妥当",
+      "before": "tuǒ dang",
+      "after": "tuǒ dàng",
+      "pdf_page": 175
+    },
+    {
+      "id": "hsk7_9_5138",
+      "word": "挖苦",
+      "before": "wā kǔ",
+      "after": "wā ku",
+      "pdf_page": 175
+    },
+    {
+      "id": "hsk7_9_4843",
+      "word": "万无一失",
+      "before": "wàn wú yī shī",
+      "after": "wàn wú yì shī",
+      "pdf_page": 177
+    },
+    {
+      "id": "hsk7_9_4013",
+      "word": "温差",
+      "before": "wēn chā",
+      "after": "wēn chà",
+      "pdf_page": 179
+    },
+    {
+      "id": "hsk7_9_4606",
+      "word": "无微不至",
+      "before": "wú wēi bù zhì",
+      "after": "wú wēi bú zhì",
+      "pdf_page": 182
+    },
+    {
+      "id": "hsk7_9_5370",
+      "word": "小菜一碟",
+      "before": "xiǎo cài yī dié",
+      "after": "xiǎo cài yì dié",
+      "pdf_page": 189
+    },
+    {
+      "id": "hsk7_9_2345",
+      "word": "泄露",
+      "before": "xiè lù",
+      "after": "xièlòu",
+      "pdf_page": 190
+    },
+    {
+      "id": "hsk7_9_2587",
+      "word": "一并",
+      "before": "yī bìng",
+      "after": "yí bìng",
+      "pdf_page": 202
+    },
+    {
+      "id": "hsk7_9_3938",
+      "word": "一动不动",
+      "before": "yī dòng bù dòng",
+      "after": "yí dòng bú dòng",
+      "pdf_page": 202
+    },
+    {
+      "id": "hsk7_9_272",
+      "word": "一度",
+      "before": "yī dù",
+      "after": "yí dù",
+      "pdf_page": 202
+    },
+    {
+      "id": "hsk7_9_4070",
+      "word": "一概",
+      "before": "yī gài",
+      "after": "yí gài",
+      "pdf_page": 202
+    },
+    {
+      "id": "hsk7_9_5378",
+      "word": "一概而论",
+      "before": "yī gài ér lùn",
+      "after": "yí gài ér lùn",
+      "pdf_page": 202
+    },
+    {
+      "id": "hsk7_9_3766",
+      "word": "一晃",
+      "before": "yī huǎng",
+      "after": "yí huàng",
+      "pdf_page": 202
+    },
+    {
+      "id": "hsk7_9_5085",
+      "word": "一技之长",
+      "before": "yī jì zhī cháng",
+      "after": "yí jì zhī cháng",
+      "pdf_page": 203
+    },
+    {
+      "id": "hsk7_9_144",
+      "word": "一面",
+      "before": "yī miàn",
+      "after": "yí miàn",
+      "pdf_page": 203
+    },
+    {
+      "id": "hsk7_9_3970",
+      "word": "一目了然",
+      "before": "yī mù liǎo rán",
+      "after": "yí mù liǎo rán",
+      "pdf_page": 203
+    },
+    {
+      "id": "hsk7_9_5088",
+      "word": "一事无成",
+      "before": "yī shì wú chéng",
+      "after": "yí shì wú chéng",
+      "pdf_page": 203
+    },
+    {
+      "id": "hsk7_9_1354",
+      "word": "一味",
+      "before": "yī wèi",
+      "after": "yí wèi",
+      "pdf_page": 203
+    },
+    {
+      "id": "hsk7_9_4613",
+      "word": "一成不变",
+      "before": "yī chéng bù biàn",
+      "after": "yì chéng bú biàn",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_5108",
+      "word": "一筹莫展",
+      "before": "yī chóu mò zhǎn",
+      "after": "yì chóu mò zhǎn",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_5076",
+      "word": "一干二净",
+      "before": "yī gān èr jìng",
+      "after": "yì gān èr jìng",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_5142",
+      "word": "一鼓作气",
+      "before": "yī gǔ zuò qì",
+      "after": "yì gǔ zuò qì",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_2023",
+      "word": "一经",
+      "before": "yī jīng",
+      "after": "yì jīng",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_984",
+      "word": "一举",
+      "before": "yī jǔ",
+      "after": "yì jǔ",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_4991",
+      "word": "一举两得",
+      "before": "yī jǔ liǎng dé",
+      "after": "yì jǔ liǎng dé",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_3886",
+      "word": "一举一动",
+      "before": "yī jǔ yī dòng",
+      "after": "yì jǔ yí dòng",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_4551",
+      "word": "一揽子",
+      "before": "yī lǎn zi",
+      "after": "yì lǎn zi",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_2669",
+      "word": "一连",
+      "before": "yī lián",
+      "after": "yì lián",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_2804",
+      "word": "一连串",
+      "before": "yī lián chuàn",
+      "after": "yì lián chuàn",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_5466",
+      "word": "一毛不拔",
+      "before": "yī máo bù bá",
+      "after": "yì máo bù bá",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_800",
+      "word": "一旁",
+      "before": "yī páng",
+      "after": "yì páng",
+      "pdf_page": 204
+    },
+    {
+      "id": "hsk7_9_1683",
+      "word": "一齐",
+      "before": "yī qí",
+      "after": "yì qí",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_1912",
+      "word": "一如既往",
+      "before": "yī rú jì wǎng",
+      "after": "yì rú jì wǎng",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_5156",
+      "word": "一声不吭",
+      "before": "yī shēng bù kēng",
+      "after": "yì shēng bù kēng",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_502",
+      "word": "一手",
+      "before": "yī shǒu",
+      "after": "yì shǒu",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_4566",
+      "word": "一丝不苟",
+      "before": "yī sī bù gǒu",
+      "after": "yì sī bù gǒu",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_3401",
+      "word": "一塌糊涂",
+      "before": "yī tā hú tu",
+      "after": "yì tā hú tú",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_438",
+      "word": "一体",
+      "before": "yī tǐ",
+      "after": "yì tǐ",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_536",
+      "word": "一头",
+      "before": "yī tóu",
+      "after": "yì tóu",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_3981",
+      "word": "一无所有",
+      "before": "yī wú suǒ yǒu",
+      "after": "yì wú suǒ yǒu",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_4289",
+      "word": "一无所知",
+      "before": "yī wú suǒ zhī",
+      "after": "yì wú suǒ zhī",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_2563",
+      "word": "意想不到",
+      "before": "yì xiǎng bù dào",
+      "after": "yì xiǎng bú dào",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_1668",
+      "word": "一心",
+      "before": "yī xīn",
+      "after": "yì xīn",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_519",
+      "word": "一行",
+      "before": "yī xíng",
+      "after": "yì xíng",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_3814",
+      "word": "一心一意",
+      "before": "yī xīn yī yì",
+      "after": "yì xīn yí yì",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_4434",
+      "word": "一言不发",
+      "before": "yī yán bù fā",
+      "after": "yì yán bù fā",
+      "pdf_page": 205
+    },
+    {
+      "id": "hsk7_9_5228",
+      "word": "一言一行",
+      "before": "yī yán yī xíng",
+      "after": "yì yán yì xíng",
+      "pdf_page": 206
+    },
+    {
+      "id": "hsk7_9_4357",
+      "word": "一应俱全",
+      "before": "yī yīng jù quán",
+      "after": "yì yīng jù quán",
+      "pdf_page": 206
+    },
+    {
+      "id": "hsk7_9_1391",
+      "word": "一早",
+      "before": "yī zǎo",
+      "after": "yì zǎo",
+      "pdf_page": 206
+    },
+    {
+      "id": "hsk7_9_4655",
+      "word": "一针见血",
+      "before": "yī zhēn jiàn xiě",
+      "after": "yì zhēn jiàn xiě",
+      "pdf_page": 206
+    },
+    {
+      "id": "hsk7_9_4247",
+      "word": "硬朗",
+      "before": "yìng lǎng",
+      "after": "yìng lang",
+      "pdf_page": 208
+    },
+    {
+      "id": "hsk7_9_4842",
+      "word": "有朝一日",
+      "before": "yǒu zhāo yī rì",
+      "after": "yǒu zhāo yí rì",
+      "pdf_page": 209
+    },
+    {
+      "id": "hsk7_9_3420",
+      "word": "源源不断",
+      "before": "yuán yuán bù duàn",
+      "after": "yuán yuán bú duàn",
+      "pdf_page": 212
+    },
+    {
+      "id": "hsk7_9_2864",
+      "word": "正经",
+      "before": "zhèng jīng",
+      "after": "zhèng jing",
+      "pdf_page": 221
+    },
+    {
+      "id": "hsk7_9_3514",
+      "word": "嘱咐",
+      "before": "zhǔ fu",
+      "after": "zhǔ fù",
+      "pdf_page": 226
+    },
+    {
+      "id": "hsk7_9_2442",
+      "word": "状元",
+      "before": "zhuàng yuán",
+      "after": "zhuàng yuan",
+      "pdf_page": 229
+    },
+    {
+      "id": "hsk7_9_3985",
+      "word": "祖宗",
+      "before": "zǔ zōng",
+      "after": "zǔ zong",
+      "pdf_page": 234
+    }
+  ],
+  "legacy_cards": 10,
+  "srs_aliases": {
+    "hsk2_3": "hsk1_24",
+    "hsk2_9": "hsk1_35",
+    "hsk2_15": "hsk1_47",
+    "hsk2_196": "hsk1_288",
+    "hsk3_12": "hsk1_56",
+    "hsk3_22": "hsk1_73",
+    "hsk3_63": "hsk1_105",
+    "hsk3_76": "hsk2_49",
+    "hsk3_88": "hsk1_117",
+    "hsk3_496": "hsk1_287",
+    "hsk4_2": "hsk1_17",
+    "hsk4_6": "hsk1_22",
+    "hsk4_7": "hsk1_24",
+    "hsk4_11": "hsk2_8",
+    "hsk4_13": "hsk2_14",
+    "hsk4_19": "hsk1_61",
+    "hsk4_46": "hsk3_37",
+    "hsk4_62": "hsk1_98",
+    "hsk4_70": "hsk3_57",
+    "hsk4_83": "hsk2_47",
+    "hsk4_124": "hsk2_65",
+    "hsk4_220": "hsk1_157",
+    "hsk4_261": "hsk3_174",
+    "hsk4_283": "hsk3_183",
+    "hsk4_490": "hsk2_127",
+    "hsk4_997": "hsk1_287",
+    "hsk5_3": "hsk2_4",
+    "hsk5_7": "hsk3_13",
+    "hsk5_12": "hsk4_26",
+    "hsk5_13": "hsk3_23",
+    "hsk5_21": "hsk2_35",
+    "hsk5_23": "hsk3_38",
+    "hsk5_26": "hsk4_57",
+    "hsk5_29": "hsk2_44",
+    "hsk5_32": "hsk4_71",
+    "hsk5_35": "hsk3_62",
+    "hsk5_37": "hsk4_81",
+    "hsk5_39": "hsk3_68",
+    "hsk5_41": "hsk3_70",
+    "hsk5_49": "hsk4_97",
+    "hsk5_50": "hsk2_51",
+    "hsk5_67": "hsk4_109",
+    "hsk5_92": "hsk4_130",
+    "hsk5_109": "pdf_hsk4_86",
+    "hsk5_135": "hsk4_176",
+    "hsk5_155": "hsk4_208",
+    "hsk5_164": "hsk4_216",
+    "hsk5_190": "hsk3_163",
+    "hsk5_237": "hsk4_265",
+    "hsk5_290": "hsk2_95",
+    "hsk5_312": "hsk3_204",
+    "hsk5_356": "hsk4_364",
+    "hsk5_379": "hsk4_387",
+    "hsk5_399": "hsk2_108",
+    "hsk5_449": "hsk3_234",
+    "hsk5_528": "hsk4_468",
+    "hsk5_612": "hsk4_508",
+    "hsk5_634": "hsk4_521",
+    "hsk5_644": "hsk3_286",
+    "hsk5_723": "hsk4_567",
+    "hsk5_981": "hsk3_357",
+    "hsk6_2": "hsk2_10",
+    "hsk6_6": "hsk3_20",
+    "hsk6_15": "hsk2_46",
+    "hsk6_18": "hsk4_89",
+    "hsk6_22": "hsk2_64",
+    "hsk6_31": "hsk4_177",
+    "hsk6_35": "hsk3_148",
+    "hsk6_50": "hsk4_263",
+    "hsk6_125": "hsk5_452",
+    "hsk6_146": "hsk4_453",
+    "hsk6_153": "hsk3_248",
+    "hsk6_184": "hsk2_125",
+    "hsk6_194": "hsk5_594",
+    "hsk6_242": "hsk5_671",
+    "hsk6_256": "hsk3_293",
+    "hsk7_9_2": "hsk2_1",
+    "hsk7_9_3": "hsk2_7",
+    "hsk7_9_4": "hsk5_4",
+    "hsk7_9_6": "hsk2_19",
+    "hsk7_9_8": "hsk3_37",
+    "hsk7_9_15": "hsk4_75",
+    "hsk7_9_22": "hsk4_129",
+    "hsk7_9_24": "hsk4_136",
+    "hsk7_9_25": "hsk4_143",
+    "hsk7_9_26": "hsk6_25",
+    "hsk7_9_30": "hsk5_151",
+    "hsk7_9_33": "hsk4_246",
+    "hsk7_9_34": "hsk5_203",
+    "hsk7_9_42": "hsk3_178",
+    "hsk7_9_47": "hsk4_309",
+    "hsk7_9_49": "hsk4_315",
+    "hsk7_9_50": "hsk5_293",
+    "hsk7_9_65": "hsk5_384",
+    "hsk7_9_100": "hsk4_474",
+    "hsk7_9_271": "hsk5_887"
+  },
+  "english_fallback_ids": [],
+  "note": "PDF7-9 has no translations. English there comes from local CC-CEDICT or the existing dictionary."
+}

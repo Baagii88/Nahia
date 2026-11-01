@@ -1,0 +1,50 @@
+{
+  "official_url": "https://hsk.cn-bj.ufileos.com/3.0/%E6%96%B0%E7%89%88HSK%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B21219.pdf",
+  "published": "2025-11",
+  "effective_on_cover": "2026-07",
+  "total": 11000,
+  "levels": {
+    "1": {
+      "official_count": 300,
+      "app_count": 300,
+      "missing": {},
+      "extra": {}
+    },
+    "2": {
+      "official_count": 200,
+      "app_count": 200,
+      "missing": {},
+      "extra": {}
+    },
+    "3": {
+      "official_count": 500,
+      "app_count": 500,
+      "missing": {},
+      "extra": {}
+    },
+    "4": {
+      "official_count": 1000,
+      "app_count": 1000,
+      "missing": {},
+      "extra": {}
+    },
+    "5": {
+      "official_count": 1600,
+      "app_count": 1600,
+      "missing": {},
+      "extra": {}
+    },
+    "6": {
+      "official_count": 1800,
+      "app_count": 1800,
+      "missing": {},
+      "extra": {}
+    },
+    "7_9": {
+      "official_count": 5600,
+      "app_count": 5600,
+      "missing": {},
+      "extra": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+.radical-lesson-tile { display:flex; flex-direction:column; align-items:flex-start; gap:.35rem; }
+.radical-lesson-tile p { margin:.25rem 0!important; }
+.radical-lesson-toolbar { display:flex; flex-wrap:wrap; gap:.3rem; align-items:center; }
+.radical-lesson-heading { display:flex; gap:1rem; align-items:center; }
+.radical-lesson-heading .radical-glyph { font-size:5rem; line-height:1.25; }
+.radical-variant-list { display:flex; gap:.6rem; align-items:center; flex-wrap:wrap; }
+.radical-variant { padding:.5rem .7rem; border:1px solid var(--border-color); border-radius:10px; font-size:2rem; }
+.radical-example-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin-top:1rem; }
+.radical-example-card { min-width:0; border:1px solid var(--border-color); border-radius:16px; padding:1rem; background:var(--bg-input); }
+.radical-example-card h4 { font-size:1.3rem; }
+.radical-example-glyph { max-width:155px; margin:0 auto .8rem; }
+.radical-diagram { display:block; width:100%; height:auto; background:white; border-radius:12px; border:1px solid #d1d5db; }
+.radical-selected-stroke { fill:#c2410c; }
+.radical-other-stroke { fill:#172033; }
+.radical-fallback { font-size:5rem; display:block; text-align:center; }
+.radical-role { font-size:.8rem; color:var(--text-muted); }
+[data-theme="dark"] #learning-content .level-tag { color:#fecaca; background:#7f1d1d; }
+.radical-word-tree { margin-top:.7rem; border-top:1px solid var(--border-color); padding-top:.6rem; }
+.radical-word-tree summary { min-height:44px; cursor:pointer; padding:.5rem 0; font-weight:600; }
+.radical-word-tree ul { list-style:none; margin:0 0 0 .3rem; padding-left:1rem; border-left:2px solid #c2410c; }
+.radical-word-tree li { margin:0 0 1rem; position:relative; }
+.radical-word-tree li:before { content:''; position:absolute; left:-1rem; top:.7rem; width:.7rem; border-top:2px solid #c2410c; }
+.radical-word-tree .learn-button { font-size:.85rem; }
+.radical-comparison { margin:1.5rem 0; padding:1rem; border:2px solid #c2410c; border-radius:14px; }
+.radical-comparison-links { display:flex; flex-wrap:wrap; gap:.3rem; }
+.radical-comparison-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; }
+.radical-comparison-grid .radical-diagram { max-width:140px; margin:auto; }
+#radical-practice { scroll-margin-top:100px; }
+.radical-quiz-glyph { width:130px; max-width:100%; }
+.radical-completion p { color:var(--text-main); font-weight:700; }
+@media(max-width:600px) { .radical-example-grid { grid-template-columns:1fr; } .radical-lesson-toolbar .learn-button { flex:1 1 auto; } .radical-lesson-heading { align-items:flex-start; } .radical-lesson-heading .radical-glyph { font-size:4rem; } }

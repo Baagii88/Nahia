@@ -1,0 +1,51 @@
+{
+  "review": "Primary glyphs visually checked against all 250 source-card thumbnails. Mongolian and English glosses are learning glosses; readings select the depicted sense, not every dictionary reading.",
+  "characters": [
+    "人目头眉鼻耳口牙舌心手足身一二三四五六七八九十马牛",
+    "羊鱼虫鸟天日月云风雨雪雷电田木米果瓜禾苗森林石亭花",
+    "草山叶竹水土方圆尖大小高长弓刀勺面豆气分半点出入里",
+    "外开关多少上下弯直来去吃喝吐立坐走飞看问哭笑车门井",
+    "伞包布皮书画灯光衣裙袜裤鞋帽毛巾工厂灭火灰尘家爷奶",
+    "妈爸哥弟姐妹我你男女前后左右东西南北中宋郑李徐刘陈",
+    "吴郭赵胡章婆伯叔姨阿视迷球国京兴空发脸孔眼睛朵齿嘴",
+    "巴双脚腿铃正腰好您请茶给孩儿们和不见喊纱回今午读题",
+    "图线圈号课骑钓枪汤肉芽冬柿条饭铺玉莓苹糕床他她是就",
+    "辆张盏件块本个颗只支服红黄黑绿蓝围色生窗未袋偶爱剪"
+  ],
+  "pinyin": [
+    "rén mù tóu méi bí ěr kǒu yá shé xīn shǒu zú shēn yī èr sān sì wǔ liù qī bā jiǔ shí mǎ niú",
+    "yáng yú chóng niǎo tiān rì yuè yún fēng yǔ xuě léi diàn tián mù mǐ guǒ guā hé miáo sēn lín shí tíng huā",
+    "cǎo shān yè zhú shuǐ tǔ fāng yuán jiān dà xiǎo gāo cháng gōng dāo sháo miàn dòu qì fēn bàn diǎn chū rù lǐ",
+    "wài kāi guān duō shǎo shàng xià wān zhí lái qù chī hē tǔ lì zuò zǒu fēi kàn wèn kū xiào chē mén jǐng",
+    "sǎn bāo bù pí shū huà dēng guāng yī qún wà kù xié mào máo jīn gōng chǎng miè huǒ huī chén jiā yé nǎi",
+    "mā bà gē dì jiě mèi wǒ nǐ nán nǚ qián hòu zuǒ yòu dōng xī nán běi zhōng sòng zhèng lǐ xú liú chén",
+    "wú guō zhào hú zhāng pó bó shū yí ā shì mí qiú guó jīng xìng kōng fà liǎn kǒng yǎn jīng duǒ chǐ zuǐ",
+    "bā shuāng jiǎo tuǐ líng zhèng yāo hǎo nín qǐng chá gěi hái ér men hé bù jiàn hǎn shā huí jīn wǔ dú tí",
+    "tú xiàn quān hào kè qí diào qiāng tāng ròu yá dōng shì tiáo fàn pù yù méi píng gāo chuáng tā tā shì jiù",
+    "liàng zhāng zhǎn jiàn kuài běn gè kē zhī zhī fú hóng huáng hēi lǜ lán wéi sè shēng chuāng wèi dài ǒu ài jiǎn"
+  ],
+  "mongolian": [
+    "хүн|нүд|толгой|хөмсөг|хамар|чих|ам|шүд|хэл|зүрх|гар|хөл|бие|нэг|хоёр|гурав|дөрөв|тав|зургаа|долоо|найм|ес|арав|морь|үхэр",
+    "хонь|загас|шавж|шувуу|тэнгэр|нар; өдөр|сар|үүл|салхи|бороо|цас|аянга|цахилгаан|тариалангийн талбай|мод|будаа|жимс|амтат гуа|үр тариа|соёо; суулгац|өтгөн ой|ой; төгөл|чулуу|сүүдрэвч|цэцэг",
+    "өвс|уул|навч|хулс|ус|шороо; газар|дөрвөлжин|дугуй|шовх|том|жижиг|өндөр|урт|нум|хутга|халбага|нүүр; гадаргуу|буурцаг|хий; агаар|хуваах|хагас|цэг|гарах|орох|дотор",
+    "гадна|нээх|хаах|олон; их|цөөн; бага|дээр|доор|муруй|шулуун|ирэх|явах|идэх|уух|нулимах; гаргах|зогсох|суух|алхах|нисэх|харах|асуух|уйлах|инээх|машин; тэрэг|хаалга|худаг",
+    "шүхэр|цүнх; боодол|даавуу|арьс|ном|зураг; зурах|гэрэл; дэн|гэрэл туяа|хувцас|юбка|оймс|өмд|гутал|малгай|үс; ноос|алчуур|ажил|үйлдвэр|унтраах|гал|үнс|тоос|гэр; гэр бүл|өвөө|эмээ",
+    "ээж|аав|ах|эрэгтэй дүү|эгч|эмэгтэй дүү|би|чи|эрэгтэй|эмэгтэй|өмнө|ард; дараа|зүүн гар тал|баруун гар тал|зүүн зүг|баруун зүг|өмнөд зүг|хойд зүг|дунд|Сун овог|Жэн овог|Ли овог|Шюй овог|Лю овог|Чэнь овог",
+    "Ү овог|Гуо овог|Жао овог|Ху овог|Жан овог|эмээ; настай эмэгтэй|аавын ах|аавын эрэгтэй дүү; авга ах|нагац эгч; авга эгч|нэрийн өмнөх дотно дуудлагын үе|харах|төөрөх; хорхойтон|бөмбөг|улс|нийслэл|баярлах; сонирхол|хоосон; орон зай|үс|нүүр|нүх|нүд|нүдний алим|цэцэг тоолох үг|шүд|ам",
+    "наалдах; барих|хос|хөл; тавхай|хөл|хонх|зөв; тэгш|бэлхүүс|сайн|та (хүндэтгэл)|гуйх; урих|цай|өгөх|хүүхэд|хүүхэд; хүү|олон тооны дагавар|ба; болон|үгүй; биш|харах; уулзах|хашхирах; дуудах|нимгэн нэхмэл; утас|буцах|одоо; өнөө|үд|унших|асуулт; бодлого",
+    "зураг; төлөвлөгөө|шугам; утас|тойрог|дугаар|хичээл|унах (морь; дугуй)|дэгээгээр загасчлах|буу|шөл|мах|нахиа|өвөл|илжгэн чих жимс|урт нарийн зүйл тоолох үг|хоол; будаа|ор; хэвтэр|хаш|гүзээлзгэнэ зэрэг жимсний нэрийн хэсэг|алим гэсэн үгийн хэсэг|бялуу; боов|ор|тэр (эрэгтэй)|тэр (эмэгтэй)|мөн; байх|тэгээд; даруй",
+    "тээврийн хэрэгсэл тоолох үг|хавтгай зүйл тоолох үг|дэн; аяга тоолох үг|хувцас; эд зүйл тоолох үг|хэсэг; бөөн; мөнгөний нэгж|ном тоолох үг|ерөнхий тоолуур үг|жижиг бөөрөнхий зүйл тоолох үг|амьтан зэрэгт хэрэглэх тоолуур үг|нарийн урт зүйл тоолох үг|хувцас; үйлчлэх|улаан|шар|хар|ногоон|цэнхэр|хүрээлэх; ороох|өнгө|төрөх; ургах|цонх|хараахан … үгүй|уут|хүүхэлдэй; хос|хайрлах|хайчлах"
+  ],
+  "english": [
+    "person|eye|head|eyebrow|nose|ear|mouth|tooth|tongue|heart|hand|foot|body|one|two|three|four|five|six|seven|eight|nine|ten|horse|cow",
+    "sheep|fish|insect|bird|sky|sun; day|moon; month|cloud|wind|rain|snow|thunder|electricity|field|tree; wood|rice|fruit|melon|grain|seedling|dense forest|woods|stone|pavilion|flower",
+    "grass|mountain|leaf|bamboo|water|earth; soil|square|round|pointed|big|small|tall|long|bow|knife|spoon|face; surface|bean|air; gas|divide|half|dot|exit|enter|inside",
+    "outside|open|close|many|few|above|below|curved|straight|come|go|eat|drink|spit; emit|stand|sit|walk|fly|look|ask|cry|laugh|vehicle|door|well",
+    "umbrella|bag; package|cloth|skin|book|picture; draw|lamp|light|clothes|skirt|sock|trousers|shoe|hat|hair; wool|towel|work|factory|extinguish|fire|ash|dust|home; family|grandfather|grandmother",
+    "mother|father|older brother|younger brother|older sister|younger sister|I|you|male|female|before; front|after; behind|left|right|east|west|south|north|middle|surname Song|surname Zheng|surname Li|surname Xu|surname Liu|surname Chen",
+    "surname Wu|surname Guo|surname Zhao|surname Hu|surname Zhang|grandmother; elderly woman|father's older brother|father's younger brother|aunt|familiar name prefix|see|be lost; fan|ball|country|capital|interest; delight|empty; space|hair|face|hole|eye|eyeball|flower classifier|tooth|mouth",
+    "cling; grasp|pair|foot|leg|bell|correct; straight|waist|good|you (polite)|please; invite|tea|give|child|child; son|plural suffix|and|not|see; meet|shout; call|gauze; yarn|return|now; today|noon|read|question; problem",
+    "picture; plan|line; thread|circle|number|lesson|ride|fish with a hook|gun|soup|meat|bud|winter|persimmon|long-object classifier|meal; rice|bed; berth|jade|berry morpheme|apple morpheme|cake|bed|he|she|be|then; immediately",
+    "vehicle classifier|flat-object classifier|lamp or cup classifier|clothing or item classifier|piece; lump|book classifier|general classifier|small round-object classifier|animal classifier|slender-object classifier|clothing; serve|red|yellow|black|green|blue|surround; wrap|color|be born; grow|window|not yet|bag|doll; pair|love|cut with scissors"
+  ]
+}
